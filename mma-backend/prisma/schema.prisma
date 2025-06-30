@@ -1,0 +1,64 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Fighter {
+  id          Int      @id @default(autoincrement())
+  name        String
+  nickname    String?
+  birthDate   DateTime?
+  nationality String?
+  height      Float?
+  reach       Float?
+  stance      String?
+  photoUrl    String?
+
+  fightsA     Fight[] @relation("FighterAFights")
+  fightsB     Fight[] @relation("FighterBFights")
+  titles      Title[]
+}
+
+model Fight {
+  id          Int      @id @default(autoincrement())
+  
+  fighterA    Fighter  @relation("FighterAFights", fields: [fighterAId], references: [id])
+  fighterAId  Int
+
+  fighterB    Fighter  @relation("FighterBFights", fields: [fighterBId], references: [id])
+  fighterBId  Int
+
+  event       Event?   @relation(fields: [eventId], references: [id])
+  eventId     Int?
+
+  date        DateTime
+  result      String   // "WIN", "LOSS", "DRAW", "NC"
+  method      String   // "KO/TKO", "SUB", "DEC"
+  round       Int?
+  time        String?
+}
+
+model Event {
+  id         Int      @id @default(autoincrement())
+  name       String
+  promotion  String
+  venue      String?
+  date       DateTime
+  fights     Fight[]
+}
+
+model Title {
+  id          Int      @id @default(autoincrement())
+  fighter     Fighter  @relation(fields: [fighterId], references: [id])
+  fighterId   Int
+  promotion   String
+  weightClass String
+  startDate   DateTime
+  endDate     DateTime?
+  isInterim   Boolean  @default(false)
+}
+

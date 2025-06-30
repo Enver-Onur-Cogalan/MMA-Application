@@ -1,0 +1,17 @@
+version: '3'
+services:
+  postgres:
+    image: postgres
+    container_name: mma-postgres
+    restart: always
+    environment:
+      POSTGRES_USER: mmauser
+      POSTGRES_PASSWORD: mmapass
+      POSTGRES_DB: mmafighters
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
