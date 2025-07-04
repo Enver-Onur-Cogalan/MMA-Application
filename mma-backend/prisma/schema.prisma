@@ -11,13 +11,23 @@ model Fighter {
   id          Int      @id @default(autoincrement())
   name        String
   nickname    String?
-  birthDate   DateTime?
+  weightClass String   @default("WELTERWEIGHT") // Default weight class
   nationality String?
+  age         Int?
   height      Float?
+  weight      Float?   // Fighter's weight in kg
   reach       Float?
+  wins        Int      @default(0)
+  losses      Int      @default(0)
+  draws       Int      @default(0)
+  isActive    Boolean  @default(true)
+  birthDate   DateTime?
   stance      String?
   photoUrl    String?
-
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt @default(now())
+  
+  // Relations
   fightsA     Fight[] @relation("FighterAFights")
   fightsB     Fight[] @relation("FighterBFights")
   titles      Title[]
@@ -28,18 +38,18 @@ model Fight {
   
   fighterA    Fighter  @relation("FighterAFights", fields: [fighterAId], references: [id])
   fighterAId  Int
-
   fighterB    Fighter  @relation("FighterBFights", fields: [fighterBId], references: [id])
   fighterBId  Int
-
   event       Event?   @relation(fields: [eventId], references: [id])
   eventId     Int?
-
+  
   date        DateTime
   result      String   // "WIN", "LOSS", "DRAW", "NC"
   method      String   // "KO/TKO", "SUB", "DEC"
   round       Int?
   time        String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt @default(now())
 }
 
 model Event {
@@ -48,6 +58,9 @@ model Event {
   promotion  String
   venue      String?
   date       DateTime
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt @default(now())
+  
   fights     Fight[]
 }
 
@@ -60,5 +73,6 @@ model Title {
   startDate   DateTime
   endDate     DateTime?
   isInterim   Boolean  @default(false)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt @default(now())
 }
-

@@ -1,0 +1,279 @@
+{
+    "info": {
+        "name": "UFC Fighter Management API",
+        "description": "UFC dövüşçü yönetim sistemi için REST API",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+        "version": "1.0.0"
+    },
+    "variable": [
+        {
+            "key": "baseUrl",
+            "value": "http://localhost:3000/api",
+            "type": "string"
+        }
+    ],
+    "item": [
+        {
+            "name": "Health Check",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:3000/health",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "3000",
+                    "path": [
+                        "health"
+                    ]
+                },
+                "description": "Sunucu durumunu kontrol et"
+            }
+        },
+        {
+            "name": "Fighters",
+            "item": [
+                {
+                    "name": "Get All Fighters",
+                    "request": {
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application/json"
+                            }
+                        ],
+                        "url": {
+                            "raw": "{{baseUrl}}/fighters?page=1&limit=10",
+                            "host": [
+                                "{{baseUrl}}"
+                            ],
+                            "path": [
+                                "fighters"
+                            ],
+                            "query": [
+                                {
+                                    "key": "page",
+                                    "value": "1",
+                                    "description": "Sayfa numarası"
+                                },
+                                {
+                                    "key": "limit",
+                                    "value": "10",
+                                    "description": "Sayfa başına kayıt sayısı"
+                                },
+                                {
+                                    "key": "weightClass",
+                                    "value": "",
+                                    "disabled": true,
+                                    "description": "Sıklet kategorisi (LIGHTWEIGHT, WELTERWEIGHT, etc.)"
+                                },
+                                {
+                                    "key": "isActive",
+                                    "value": "",
+                                    "disabled": true,
+                                    "description": "Aktif durum (true/false)"
+                                }
+                            ]
+                        },
+                        "description": "Tüm dövüşçüleri sayfalama ile birlikte getirir"
+                    }
+                },
+                {
+                    "name": "Get Fighter by ID",
+                    "request": {
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application/json"
+                            }
+                        ],
+                        "url": {
+                            "raw": "{{baseUrl}}/fighters/1",
+                            "host": [
+                                "{{baseUrl}}"
+                            ],
+                            "path": [
+                                "fighters",
+                                "1"
+                            ]
+                        },
+                        "description": "ID'ye göre belirli bir dövüşçüyü getirir"
+                    }
+                },
+                {
+                    "name": "Create Fighter",
+                    "request": {
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n  \"name\": \"Israel Adesanya\",\n  \"nickname\": \"The Last Stylebender\",\n  \"weightClass\": \"MIDDLEWEIGHT\",\n  \"nationality\": \"Nigeria\",\n  \"age\": 34,\n  \"height\": 193.0,\n  \"weight\": 84.0,\n  \"reach\": 203.0,\n  \"wins\": 24,\n  \"losses\": 2,\n  \"draws\": 0,\n  \"isActive\": true\n}"
+                        },
+                        "url": {
+                            "raw": "{{baseUrl}}/fighters",
+                            "host": [
+                                "{{baseUrl}}"
+                            ],
+                            "path": [
+                                "fighters"
+                            ]
+                        },
+                        "description": "Yeni bir dövüşçü oluşturur"
+                    }
+                },
+                {
+                    "name": "Update Fighter",
+                    "request": {
+                        "method": "PUT",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n  \"wins\": 25,\n  \"losses\": 2,\n  \"isActive\": true\n}"
+                        },
+                        "url": {
+                            "raw": "{{baseUrl}}/fighters/1",
+                            "host": [
+                                "{{baseUrl}}"
+                            ],
+                            "path": [
+                                "fighters",
+                                "1"
+                            ]
+                        },
+                        "description": "Mevcut bir dövüşçünün bilgilerini günceller"
+                    }
+                },
+                {
+                    "name": "Delete Fighter",
+                    "request": {
+                        "method": "DELETE",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application/json"
+                            }
+                        ],
+                        "url": {
+                            "raw": "{{baseUrl}}/fighters/1",
+                            "host": [
+                                "{{baseUrl}}"
+                            ],
+                            "path": [
+                                "fighters",
+                                "1"
+                            ]
+                        },
+                        "description": "Belirtilen ID'ye sahip dövüşçüyü siler"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Filter Examples",
+            "item": [
+                {
+                    "name": "Get Lightweight Fighters",
+                    "request": {
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application/json"
+                            }
+                        ],
+                        "url": {
+                            "raw": "{{baseUrl}}/fighters?weightClass=LIGHTWEIGHT",
+                            "host": [
+                                "{{baseUrl}}"
+                            ],
+                            "path": [
+                                "fighters"
+                            ],
+                            "query": [
+                                {
+                                    "key": "weightClass",
+                                    "value": "LIGHTWEIGHT"
+                                }
+                            ]
+                        },
+                        "description": "Sadece lightweight kategorisindeki dövüşçüleri getirir"
+                    }
+                },
+                {
+                    "name": "Get Active Fighters",
+                    "request": {
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application/json"
+                            }
+                        ],
+                        "url": {
+                            "raw": "{{baseUrl}}/fighters?isActive=true",
+                            "host": [
+                                "{{baseUrl}}"
+                            ],
+                            "path": [
+                                "fighters"
+                            ],
+                            "query": [
+                                {
+                                    "key": "isActive",
+                                    "value": "true"
+                                }
+                            ]
+                        },
+                        "description": "Sadece aktif dövüşçüleri getirir"
+                    }
+                },
+                {
+                    "name": "Get Fighters with Pagination",
+                    "request": {
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application/json"
+                            }
+                        ],
+                        "url": {
+                            "raw": "{{baseUrl}}/fighters?page=2&limit=5",
+                            "host": [
+                                "{{baseUrl}}"
+                            ],
+                            "path": [
+                                "fighters"
+                            ],
+                            "query": [
+                                {
+                                    "key": "page",
+                                    "value": "2"
+                                },
+                                {
+                                    "key": "limit",
+                                    "value": "5"
+                                }
+                            ]
+                        },
+                        "description": "İkinci sayfadan 5 kayıt getirir"
+                    }
+                }
+            ]
+        }
+    ]
+}
