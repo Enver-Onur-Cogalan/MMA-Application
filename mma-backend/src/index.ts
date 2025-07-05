@@ -9,7 +9,7 @@ import { PrismaClient } from '@prisma/client';
 
 // Routes
 import fighterRoutes from './routes/fighters';
-import { swaggerOptions } from './config/swagger';
+import { swaggerOptions as swaggerJsdocOptions } from './config/swagger';
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -32,14 +32,35 @@ const limiter = rateLimit({
 });
 app.use('/api/', limiter);
 
-// Swagger setup
-const specs = swaggerJsdoc(swaggerOptions);
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs, {
-    customCss: '.swagger-ui .topbar { display: none }',
-    customSiteTitle: 'UFC API Documentation'
-}));
+// Swagger setup with SSL fix
+const specs = swaggerJsdoc(swaggerJsdocOptions);
 
-// Alternative: Raw JSON documentation
+// Swagger UI options for local development  
+const swaggerUiOptions = {
+    customCss: '.swagger-ui .topbar { display: none }',
+    customSiteTitle: 'UFC API Documentation',
+    swaggerOptions: {
+        url: undefined,
+        urls: undefined,
+        layout: 'StandaloneLayout',
+        deepLinking: true,
+        displayOperationId: false,
+        defaultModelsExpandDepth: 1,
+        defaultModelExpandDepth: 1,
+        defaultModelRendering: 'example',
+        displayRequestDuration: false,
+        docExpansion: 'none',
+        filter: false,
+        maxDisplayedTags: null,
+        showExtensions: false,
+        showCommonExtensions: false,
+        useUnsafeMarkdown: false
+    }
+};
+
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs, swaggerUiOptions));
+
+// Backup JSON documentation
 app.get('/api-docs.json', (req, res) => {
     res.setHeader('Content-Type', 'application/json');
     res.send(specs);
