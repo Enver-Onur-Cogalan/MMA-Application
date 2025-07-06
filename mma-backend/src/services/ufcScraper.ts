@@ -1,7 +1,7 @@
 import axios from "axios";
 import * as cheerio from 'cheerio';
 import fs from 'fs/promises';
-import path, { resolve } from 'path';
+import path from 'path';
 
 interface UFCFighter {
     name: string;
@@ -20,7 +20,7 @@ interface UFCFighter {
     stance?: string;
 }
 
-class UFCScrapper {
+class UFCScraper {
     private baseUrl = 'http://www.ufcstats.com';
     private fightersUrl = 'http://www.ufcstats.com/statistics/fighters';
 
@@ -31,6 +31,14 @@ class UFCScrapper {
 
     private async delay(ms: number = 1000): Promise<void> {
         return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    private cleanUrl(url: string): string {
+        // Fix double-domain issue
+        if (url.startsWith('http')) {
+            return url;
+        }
+        return this.baseUrl + url;
     }
 
     private convertHeightToCm(heightStr: string): number | undefined {
@@ -51,27 +59,17 @@ class UFCScrapper {
             const pounds = parseInt(match[1]);
             return Math.round(pounds * 0.453592);
         }
-        return undefined
+        return undefined;
     }
 
     private convertReachToCm(reachStr: string): number | undefined {
         // Convert "72\"" to cm
-        const match = reachStr.match(/(\d+)"/)
+        const match = reachStr.match(/(\d+)"/);
         if (match) {
             const inches = parseInt(match[1]);
             return Math.round(inches * 2.54);
         }
         return undefined;
-    }
-
-    private parseRecord(recordStr: string): { wins: number; losses: number; draws: number } {
-        // Parse "22-6-0" format
-        const parts = recordStr.split('-').map(n => parseInt(n) || 0);
-        return {
-            wins: parts[0] || 0,
-            losses: parts[1] || 0,
-            draws: parts[2] || 0,
-        };
     }
 
     private determineWeightClass(weightKg: number | undefined): string {
@@ -111,42 +109,68 @@ class UFCScrapper {
                     const cells = $row.find('td');
                     if (cells.length < 10) return;
 
-                    // Extract data from each cell
+                    // Extract data from each cell - FIXED INDEXES
                     const nameCell = $(cells[0]);
                     const name = nameCell.find('a').text().trim();
                     const fighterUrl = nameCell.find('a').attr('href');
 
                     if (!name) return;
 
-                    const heightStr = $(cells[1]).text().trim();
-                    const weightStr = $(cells[2]).text().trim();
-                    const reachStr = $(cells[3]).text().trim();
-                    const stance = $(cells[4]).text().trim();
-                    const recordStr = $(cells[6]).text().trim();
+                    // Log all cells to see the structure
+                    console.log(`🔍 All cells for ${name}:`);
+                    for (let i = 0; i < Math.min(cells.length, 12); i++) {
+                        console.log(`   Cell ${i}: "${$(cells[i]).text().trim()}"`);
+                    }
+
+                    // Let's try different indexes based on what we see
+                    const lastNameStr = $(cells[1]).text().trim();
+                    const nicknameStr = $(cells[2]).text().trim();
+                    const heightStr = $(cells[3]).text().trim();
+                    const weightStr = $(cells[4]).text().trim();
+                    const reachStr = $(cells[5]).text().trim();
+                    const stance = $(cells[6]).text().trim();
+                    const wins = $(cells[7]).text().trim();
+                    const losses = $(cells[8]).text().trim();
+                    const draws = $(cells[9]).text().trim();
+
+                    // Build full name
+                    const fullName = `${name} ${lastNameStr}`.trim();
+
+                    // DEBUG: Log what we're actually getting
+                    console.log(`🔍 DEBUG ${fullName}:`);
+                    console.log(`   Height: "${heightStr}"`);
+                    console.log(`   Weight: "${weightStr}"`);
+                    console.log(`   Reach: "${reachStr}"`);
+                    console.log(`   Stance: "${stance}"`);
+                    console.log(`   W-L-D: "${wins}-${losses}-${draws}"`);
+                    console.log(`   Total cells: ${cells.length}`);
 
                     // Parse the data
                     const height = this.convertHeightToCm(heightStr);
                     const weight = this.convertWeightToKg(weightStr);
                     const reach = this.convertReachToCm(reachStr);
-                    const record = this.parseRecord(recordStr);
+                    const winsNum = parseInt(wins) || 0;
+                    const lossesNum = parseInt(losses) || 0;
+                    const drawsNum = parseInt(draws) || 0;
                     const weightClass = this.determineWeightClass(weight);
 
                     const fighter: UFCFighter = {
-                        name: name,
+                        name: fullName,
+                        nickname: nicknameStr || undefined,
                         weightClass: weightClass,
                         height: height,
                         weight: weight,
                         reach: reach,
-                        wins: record.wins,
-                        losses: record.losses,
-                        draws: record.draws,
+                        wins: winsNum,
+                        losses: lossesNum,
+                        draws: drawsNum,
                         isActive: true, // We'll assume active for now
                         stance: stance || undefined,
-                        ufcStatsUrl: fighterUrl ? this.baseUrl + fighterUrl : undefined
+                        ufcStatsUrl: fighterUrl ? this.cleanUrl(fighterUrl) : undefined
                     };
 
                     fighters.push(fighter);
-                    console.log(`✅ Scraped: ${fighter.name} (${fighter.weightClass})`);
+                    console.log(`✅ Scraped: ${fighter.name} (${fighter.weightClass}) - ${fighter.wins}-${fighter.losses}-${fighter.draws}`);
 
                 } catch (error) {
                     console.error(`❌ Error parsing fighter row:`, error);
@@ -236,4 +260,4 @@ class UFCScrapper {
     }
 }
 
-export default UFCScrapper;
+export default UFCScraper;
