@@ -11,11 +11,11 @@ model Fighter {
   id          Int      @id @default(autoincrement())
   name        String
   nickname    String?
-  weightClass String   @default("WELTERWEIGHT") // Default weight class
+  weightClass String   @default("WELTERWEIGHT")
   nationality String?
   age         Int?
   height      Float?
-  weight      Float?   // Fighter's weight in kg
+  weight      Float?
   reach       Float?
   wins        Int      @default(0)
   losses      Int      @default(0)
@@ -24,6 +24,13 @@ model Fighter {
   birthDate   DateTime?
   stance      String?
   photoUrl    String?
+  
+  biography      String?  
+  birthPlace     String?   
+  fightingStyle  String?   
+  team           String?   
+  coach          String?   
+  
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt @default(now())
   

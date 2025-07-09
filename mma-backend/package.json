@@ -13,8 +13,11 @@
     "studio": "prisma studio",
     "clean": "rm -rf dist",
     "type-check": "tsc --noEmit",
-    "scrape": "ts-node scripts/scrapeUFC.ts",
-    "scrape-and-seed": "npm run scrape && npm run seed"
+    "auto-enhance": "ts-node scripts/autoEnhance.ts",
+    "auto-enhance-small": "ts-node scripts/autoEnhance.ts 10",
+    "auto-enhance-medium": "ts-node scripts/autoEnhance.ts 50",
+    "auto-enhance-large": "ts-node scripts/autoEnhance.ts 100",
+    "seed-enhanced": "ts-node scripts/seedEnhanced.ts"
   },
   "keywords": [
     "ufc",

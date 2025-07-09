@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Tom Aaron",
+    "weightClass": "LIGHTWEIGHT",
+    "weight": 70,
+    "wins": 5,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/93fe7332d16c6ad9",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-09T18:47:23.236Z"
+    }
+  },
+  {
+    "name": "Danny Abbadi",
+    "nickname": "The Assassin",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 180,
+    "weight": 70,
+    "wins": 4,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/15df64c02b6b0fde",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-09T18:47:26.085Z"
+    }
+  },
+  {
+    "name": "Nariman Abbasov",
+    "nickname": "Bayraktar",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 173,
+    "weight": 70,
+    "reach": 0,
+    "wins": 28,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/59a9d6dac61c2540",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-09T18:47:28.329Z"
+    }
+  },
+  {
+    "name": "David Abbott",
+    "nickname": "Tank",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 183,
+    "weight": 120,
+    "wins": 10,
+    "losses": 15,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Switch",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/b361180739bed4b0",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-09T18:47:33.044Z"
+    }
+  },
+  {
+    "name": "Hamdy Abdelwahab",
+    "nickname": "The Hammer",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 188,
+    "weight": 120,
+    "reach": 0,
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/3329d692aea4dc28",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-09T18:47:34.618Z"
+    },
+    "biography": "Hamdy El-Said Abdelwahab is an Egyptian Greco-Roman wrestler and mixed martial artist currently competing in the heavyweight division of the Ultimate Fighting Championship. He competed in the men's Greco-Roman 98 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 16 by Alin Alexuc-Ciurariu."
+  },
+  {
+    "name": "Mansur Abdul-Malik",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 188,
+    "weight": 84,
+    "reach": 0,
+    "wins": 9,
+    "losses": 0,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/841695e02c99a521",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-09T18:47:36.540Z"
+    }
+  },
+  {
+    "name": "Shamil Abdurakhimov",
+    "nickname": "Abrek",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 191,
+    "weight": 107,
+    "reach": 0,
+    "wins": 20,
+    "losses": 8,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/2f5cbecbbe18bac4",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-09T18:47:39.101Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Shamil_Abdurakhimov_at_UFC_Fight_Night_136.png",
+    "biography": "Shamil Gentovich Abdurakhimov is a Russian former mixed martial artist, who competed in the heavyweight division. He formerly competed for the Ultimate Fighting Championship (UFC)."
+  },
+  {
+    "name": "Hiroyuki Abe",
+    "nickname": "Abe Ani",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 168,
+    "weight": 66,
+    "wins": 8,
+    "losses": 15,
+    "draws": 3,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c0ed7b208197e8de",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-09T18:47:40.673Z"
+    },
+    "biography": "Hiroyuki Abe may refer to:Hiroyuki Abe (fighter), Japanese mixed martial artist\nHiroyuki Abe (footballer), Japanese football player\nHiroyuki Abe, Japanese table tennis international\nHiroyuki Abe, a Japanese politician\n"
+  },
+  {
+    "name": "Daichi Abe",
+    "weightClass": "WELTERWEIGHT",
+    "height": 180,
+    "weight": 77,
+    "reach": 0,
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/5140122c3eecd307",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-09T18:47:42.552Z"
+    },
+    "biography": "Daichi Abe  is a Japanese mixed martial artist competing in the Welterweight division. He is the former DEEP Welterweight Champion. A professional mixed martial artist since 2016, he has competed in the Ultimate Fighting Championship and was also the Welterweight King of Pancrase."
+  },
+  {
+    "name": "Papy Abedi",
+    "nickname": "Makambo",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 180,
+    "weight": 84,
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c9f6385af6df66d7",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-09T18:47:44.421Z"
+    },
+    "biography": "Mwimbi Papy Abedi is a Congolese-Swedish mixed martial artist who last competed in 2017. A professional competitor since 2006, he formerly fought for the UFC."
+  }
+]
