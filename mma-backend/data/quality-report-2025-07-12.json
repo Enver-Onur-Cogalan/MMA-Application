@@ -1,0 +1,96 @@
+{
+  "totalFighters": 200,
+  "dataCompleteness": {
+    "withPhotos": 21,
+    "withBiography": 91,
+    "withBirthDate": 0,
+    "withHeight": 182,
+    "withWeight": 194,
+    "withReach": 0,
+    "withNationality": 0
+  },
+  "dataQualityScore": 35,
+  "missingDataFighters": [
+    {
+      "name": "Tom Aaron",
+      "missing": [
+        "photo",
+        "biography",
+        "height",
+        "nationality"
+      ]
+    },
+    {
+      "name": "Danny Abbadi",
+      "missing": [
+        "photo",
+        "biography",
+        "nationality"
+      ]
+    },
+    {
+      "name": "Nariman Abbasov",
+      "missing": [
+        "photo",
+        "biography",
+        "nationality"
+      ]
+    },
+    {
+      "name": "David Abbott",
+      "missing": [
+        "photo",
+        "biography",
+        "nationality"
+      ]
+    },
+    {
+      "name": "Christian Aguilera",
+      "missing": [
+        "photo",
+        "nationality"
+      ]
+    },
+    {
+      "name": "Nick Aguirre",
+      "missing": [
+        "photo",
+        "biography",
+        "nationality"
+      ]
+    },
+    {
+      "name": "Hamdy Abdelwahab",
+      "missing": [
+        "photo",
+        "nationality"
+      ]
+    },
+    {
+      "name": "Mansur Abdul-Malik",
+      "missing": [
+        "photo",
+        "biography",
+        "nationality"
+      ]
+    },
+    {
+      "name": "Shamil Abdurakhimov",
+      "missing": [
+        "nationality"
+      ]
+    },
+    {
+      "name": "Hiroyuki Abe",
+      "missing": [
+        "photo",
+        "nationality"
+      ]
+    }
+  ],
+  "duplicates": [],
+  "recommendations": [
+    "📸 Photo coverage is low (10.5%). Consider running enhanced scraping.",
+    "📏 Physical stats coverage is low (62.7%). UFC Stats scraping may need fixing."
+  ]
+}

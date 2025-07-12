@@ -11,7 +11,7 @@
     "dataQuality": {
       "ufcStats": true,
       "wikipedia": false,
-      "lastUpdated": "2025-07-09T18:47:23.236Z"
+      "lastUpdated": "2025-07-12T11:34:28.854Z"
     }
   },
   {
@@ -29,7 +29,7 @@
     "dataQuality": {
       "ufcStats": true,
       "wikipedia": false,
-      "lastUpdated": "2025-07-09T18:47:26.085Z"
+      "lastUpdated": "2025-07-12T11:34:31.434Z"
     }
   },
   {
@@ -48,7 +48,7 @@
     "dataQuality": {
       "ufcStats": true,
       "wikipedia": false,
-      "lastUpdated": "2025-07-09T18:47:28.329Z"
+      "lastUpdated": "2025-07-12T11:34:33.436Z"
     }
   },
   {
@@ -66,7 +66,7 @@
     "dataQuality": {
       "ufcStats": true,
       "wikipedia": false,
-      "lastUpdated": "2025-07-09T18:47:33.044Z"
+      "lastUpdated": "2025-07-12T11:34:35.585Z"
     }
   },
   {
@@ -85,7 +85,7 @@
     "dataQuality": {
       "ufcStats": true,
       "wikipedia": true,
-      "lastUpdated": "2025-07-09T18:47:34.618Z"
+      "lastUpdated": "2025-07-12T11:34:37.220Z"
     },
     "biography": "Hamdy El-Said Abdelwahab is an Egyptian Greco-Roman wrestler and mixed martial artist currently competing in the heavyweight division of the Ultimate Fighting Championship. He competed in the men's Greco-Roman 98 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 16 by Alin Alexuc-Ciurariu."
   },
@@ -104,7 +104,7 @@
     "dataQuality": {
       "ufcStats": true,
       "wikipedia": false,
-      "lastUpdated": "2025-07-09T18:47:36.540Z"
+      "lastUpdated": "2025-07-12T11:34:39.273Z"
     }
   },
   {
@@ -123,7 +123,7 @@
     "dataQuality": {
       "ufcStats": true,
       "wikipedia": true,
-      "lastUpdated": "2025-07-09T18:47:39.101Z"
+      "lastUpdated": "2025-07-12T11:34:41.252Z"
     },
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Shamil_Abdurakhimov_at_UFC_Fight_Night_136.png",
     "biography": "Shamil Gentovich Abdurakhimov is a Russian former mixed martial artist, who competed in the heavyweight division. He formerly competed for the Ultimate Fighting Championship (UFC)."
@@ -143,7 +143,7 @@
     "dataQuality": {
       "ufcStats": true,
       "wikipedia": true,
-      "lastUpdated": "2025-07-09T18:47:40.673Z"
+      "lastUpdated": "2025-07-12T11:34:42.871Z"
     },
     "biography": "Hiroyuki Abe may refer to:Hiroyuki Abe (fighter), Japanese mixed martial artist\nHiroyuki Abe (footballer), Japanese football player\nHiroyuki Abe, Japanese table tennis international\nHiroyuki Abe, a Japanese politician\n"
   },
@@ -162,7 +162,7 @@
     "dataQuality": {
       "ufcStats": true,
       "wikipedia": true,
-      "lastUpdated": "2025-07-09T18:47:42.552Z"
+      "lastUpdated": "2025-07-12T11:34:45.005Z"
     },
     "biography": "Daichi Abe  is a Japanese mixed martial artist competing in the Welterweight division. He is the former DEEP Welterweight Champion. A professional mixed martial artist since 2016, he has competed in the Ultimate Fighting Championship and was also the Welterweight King of Pancrase."
   },
@@ -181,8 +181,3518 @@
     "dataQuality": {
       "ufcStats": true,
       "wikipedia": true,
-      "lastUpdated": "2025-07-09T18:47:44.421Z"
+      "lastUpdated": "2025-07-12T11:34:47.365Z"
     },
     "biography": "Mwimbi Papy Abedi is a Congolese-Swedish mixed martial artist who last competed in 2017. A professional competitor since 2006, he formerly fought for the UFC."
+  },
+  {
+    "name": "Ricardo Abreu",
+    "nickname": "Demente",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 180,
+    "weight": 84,
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/aa6e591c2a2cdecd",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:34:49.412Z"
+    }
+  },
+  {
+    "name": "Klidson Abreu",
+    "nickname": "White Bear",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 183,
+    "weight": 93,
+    "reach": 0,
+    "wins": 15,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/7279654c7674cd24",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:34:51.376Z"
+    },
+    "biography": "Klidson Abreu is a Brazilian mixed martial artist competing in the Heavyweight division. He formerly competed in the Ultimate Fighting Championship (UFC) and Professional Fighters League (PFL)."
+  },
+  {
+    "name": "Cyborg Abreu",
+    "weightClass": "WELTERWEIGHT",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/f689bd7bbd14b392",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:34:53.404Z"
+    }
+  },
+  {
+    "name": "Daniel Acacio",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 173,
+    "weight": 82,
+    "wins": 30,
+    "losses": 18,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1c5879330d42255f",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:34:55.139Z"
+    },
+    "biography": "Daniel Acácio is a Brazilian professional mixed martial artist, also current Superior Challenge Welterweight Champion and 100% Fight Middleweight Champion. He is most notable for his fights in PRIDE Fighting Championships and has previously fought for M-1 Global, Shooto, Pancrase, Impact FC, Jungle Fight, Fight Festival and Konfrontacja Sztuk Walki."
+  },
+  {
+    "name": "John Adajar",
+    "nickname": "The Outlaw",
+    "weightClass": "WELTERWEIGHT",
+    "height": 175,
+    "weight": 77,
+    "reach": 0,
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/989b85f6540c86b1",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:34:57.297Z"
+    }
+  },
+  {
+    "name": "Scott Adams",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 183,
+    "weight": 102,
+    "wins": 8,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/2620f3eb21c79614",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:34:59.547Z"
+    }
+  },
+  {
+    "name": "Juan Adams",
+    "nickname": "The Kraken",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 196,
+    "weight": 120,
+    "reach": 0,
+    "wins": 5,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/83b00f7597e5ac83",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:35:01.198Z"
+    },
+    "biography": "Juan Adams is an American mixed martial arts (MMA) fighter and currently competes in the heavyweight division. Adams is currently signed to BYB Bare Knuckle Boxing in the super heavyweight division. He formerly competed in the Ultimate Fighting Championship (UFC) and Professional Fighters League (PFL)."
+  },
+  {
+    "name": "Anthony Adams",
+    "nickname": "Sugafoot",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 185,
+    "weight": 84,
+    "reach": 0,
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/a77633a989013265",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:03.240Z"
+    }
+  },
+  {
+    "name": "Zarrukh Adashev",
+    "nickname": "The Lion",
+    "weightClass": "FLYWEIGHT",
+    "height": 165,
+    "weight": 57,
+    "reach": 0,
+    "wins": 4,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/79cb2a690b9ba5e8",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:35:05.279Z"
+    },
+    "biography": "Zarrukh Adashev is an Uzbek professional kickboxer and professional mixed martial artist who competes in the Flyweight division and formerly in the Bantamweight division. He has previously competed in the Ultimate Fighting Championship (UFC) and Bellator MMA."
+  },
+  {
+    "name": "Israel Adesanya",
+    "nickname": "The Last Stylebender",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 193,
+    "weight": 84,
+    "reach": 0,
+    "wins": 24,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Switch",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1338e2c7480bdf9e",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:35:07.433Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Israel_Adesanya_at_UFC_230.jpg/330px-Israel_Adesanya_at_UFC_230.jpg",
+    "biography": "Israel Mobolaji Temitayo Odunayo Oluwafemi Owolabi Adesanya is a Nigerian-New Zealand professional mixed martial artist, former kickboxer and boxer. As a mixed martial artist, he currently competes in the Middleweight division of the Ultimate Fighting Championship (UFC), where he is a former two-time UFC Middleweight Champion. In kickboxing, he is a former Glory Middleweight Championship title challenger. As of 4 February 2025, he is #4 in the UFC middleweight rankings."
+  },
+  {
+    "name": "Sam Adkins",
+    "nickname": "The Experience",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 191,
+    "weight": 102,
+    "wins": 7,
+    "losses": 20,
+    "draws": 2,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/0e9869d712e81f8f",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:35:09.074Z"
+    },
+    "biography": "Sam Adkins may refer to:Sam Adkins, American football player\nSam Adkins (footballer), football midfielder\nSam Adkins (fighter), American mixed martial artist\n"
+  },
+  {
+    "name": "Mohamed Ado",
+    "weightClass": "WELTERWEIGHT",
+    "height": 180,
+    "weight": 77,
+    "reach": 0,
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Switch",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/7a846fcbf182a7c8",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:11.121Z"
+    }
+  },
+  {
+    "name": "Nick Agallar",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 173,
+    "weight": 70,
+    "wins": 24,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/ebc5af72ad5a28cb",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:13.370Z"
+    }
+  },
+  {
+    "name": "Mariya Agapova",
+    "nickname": "Money Mashka",
+    "weightClass": "FLYWEIGHT",
+    "height": 168,
+    "weight": 57,
+    "reach": 0,
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/a08ddd04eaffd81d",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:35:15.520Z"
+    },
+    "biography": "Mariya Agapova is a Kazakhstani mixed martial artist who competed in the flyweight division of the Ultimate Fighting Championship (UFC). She is currently signed with the Bare Knuckle Fighting Championship (BKFC)."
+  },
+  {
+    "name": "Kantharaj Agasa",
+    "nickname": "Kannadiga",
+    "weightClass": "BANTAMWEIGHT",
+    "weight": 61,
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/26f4288e83188c61",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:17.573Z"
+    }
+  },
+  {
+    "name": "Marcelo Aguiar",
+    "weightClass": "WELTERWEIGHT",
+    "height": 178,
+    "weight": 77,
+    "wins": 2,
+    "losses": 3,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/44aa652b181bcf68",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:19.852Z"
+    }
+  },
+  {
+    "name": "Fabio Aguiar",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 183,
+    "weight": 84,
+    "wins": 17,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/501821d7fb7b95c1",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:22.220Z"
+    }
+  },
+  {
+    "name": "Edwin Aguilar",
+    "nickname": "Tigre",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 178,
+    "weight": 84,
+    "wins": 26,
+    "losses": 19,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/6cadc0a0ba7dc015",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:25.050Z"
+    }
+  },
+  {
+    "name": "Jessica Aguilar",
+    "nickname": "Jag",
+    "weightClass": "FLYWEIGHT",
+    "height": 160,
+    "weight": 52,
+    "reach": 0,
+    "wins": 20,
+    "losses": 8,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/8f382b3baa954d2a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:35:27.304Z"
+    },
+    "biography": "Jessica Aguilar is a Mexican mixed martial artist who competes in RIZIN. At the time of her voluntary departure from World Series of Fighting, she was the reigning WSOF Women's Strawweight Champion. Aguilar previously competed for Bellator Fighting Championships and Ultimate Fighting Championship.",
+    "birthPlace": "World Series of Fighting"
+  },
+  {
+    "name": "Kevin Aguilar",
+    "nickname": "Angel of Death",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 170,
+    "weight": 70,
+    "reach": 0,
+    "wins": 17,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/cf946e03ba2e7666",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:35:29.658Z"
+    },
+    "biography": "Kevin Aguilar is an American mixed martial artist (MMA). Aguilar was the Legacy Fighting Alliance (LFA) Featherweight champion and he competed in the featherweight division in the Ultimate Fighting Championship (UFC)."
+  },
+  {
+    "name": "Jesus Aguilar",
+    "weightClass": "FLYWEIGHT",
+    "height": 163,
+    "weight": 57,
+    "reach": 0,
+    "wins": 11,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c051c2e12d692b8a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:33.755Z"
+    }
+  },
+  {
+    "name": "Christian Aguilera",
+    "nickname": "The Beast",
+    "weightClass": "WELTERWEIGHT",
+    "height": 175,
+    "weight": 77,
+    "reach": 0,
+    "wins": 14,
+    "losses": 8,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Switch",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/ae071698e1a3ccd4",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:35:36.206Z"
+    },
+    "biography": "Christian Aguilera is an American mixed martial artist who competes in the Welterweight division. He formerly fought in the Ultimate Fighting Championship."
+  },
+  {
+    "name": "Nick Aguirre",
+    "nickname": "Slick",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 175,
+    "weight": 61,
+    "reach": 0,
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/0978385b2bd9ef9b",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:38.664Z"
+    }
+  },
+  {
+    "name": "Ahejiang Ailinuer",
+    "weightClass": "FEATHERWEIGHT",
+    "weight": 66,
+    "wins": 15,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/ff584c17bccbae0b",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:41.568Z"
+    }
+  },
+  {
+    "name": "Mike Aina",
+    "nickname": "Iron",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 175,
+    "weight": 70,
+    "wins": 14,
+    "losses": 6,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/9e3dbb9c68ed5d1a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:44.295Z"
+    }
+  },
+  {
+    "name": "Ashiek Ajim",
+    "nickname": "Peak Physique",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 173,
+    "weight": 61,
+    "reach": 0,
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Switch",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/49dea784f6cfed71",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:46.961Z"
+    }
+  },
+  {
+    "name": "Hitomi Akano",
+    "nickname": "Girlfight Monster",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 163,
+    "weight": 61,
+    "wins": 18,
+    "losses": 10,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/2eada40ac8801559",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:35:49.621Z"
+    },
+    "biography": "Hitomi Akano  is a retired Japanese female mixed martial artist. She announced her formal retirement from MMA on August 1, 2013.",
+    "birthPlace": "MMA on August 1"
+  },
+  {
+    "name": "Omari Akhmedov",
+    "nickname": "Wolverine",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 183,
+    "weight": 84,
+    "reach": 0,
+    "wins": 21,
+    "losses": 6,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/16690d100f995f8f",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:35:53.715Z"
+    },
+    "biography": "Omari Sirazhudinovich Akhmedov is a Russian professional mixed martial artist who currently competes in the Light Heavyweight division. He previously fought in the Ultimate Fighting Championship and Professional Fighters League (PFL)."
+  },
+  {
+    "name": "Yoshihiro Akiyama",
+    "weightClass": "WELTERWEIGHT",
+    "height": 178,
+    "weight": 77,
+    "reach": 0,
+    "wins": 14,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/b0550072e5f0afa7",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:56.505Z"
+    }
+  },
+  {
+    "name": "Rostem Akman",
+    "weightClass": "WELTERWEIGHT",
+    "height": 178,
+    "weight": 77,
+    "reach": 0,
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Switch",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1fc64507a0cb38cf",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:35:58.938Z"
+    }
+  },
+  {
+    "name": "Razak Al-Hassan",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 188,
+    "weight": 93,
+    "wins": 13,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/38b50fd1e1b5b656",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:04.365Z"
+    }
+  },
+  {
+    "name": "Abdul-Kareem Al-Selwady",
+    "nickname": "Pride of Palestine",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 173,
+    "weight": 70,
+    "reach": 0,
+    "wins": 15,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/597499ac7a5aac62",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:07.049Z"
+    }
+  },
+  {
+    "name": "Mostapha Al-Turk",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 188,
+    "weight": 111,
+    "reach": 0,
+    "wins": 6,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1cf1310684a841f5",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:13.077Z"
+    }
+  },
+  {
+    "name": "Herdem Alacabek",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 188,
+    "weight": 93,
+    "reach": 0,
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/7578cc6bd750206b",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:15.534Z"
+    }
+  },
+  {
+    "name": "Javi Alanis",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 168,
+    "weight": 61,
+    "wins": 0,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/2144954270be834d",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:18.397Z"
+    }
+  },
+  {
+    "name": "Amir Albazi",
+    "nickname": "The Prince",
+    "weightClass": "FLYWEIGHT",
+    "height": 165,
+    "weight": 57,
+    "reach": 0,
+    "wins": 17,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/6d35bf94f7d30241",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:36:20.856Z"
+    },
+    "biography": "Amir Yahya Abdulamir Al-Bazi, known as Amir Albazi, is an Iraqi professional mixed martial artist who currently competes in the Flyweight division of the Ultimate Fighting Championship (UFC). As of July 1, 2025, he is #4 in the UFC flyweight rankings."
+  },
+  {
+    "name": "Brett Albee",
+    "weightClass": "HEAVYWEIGHT",
+    "weight": 102,
+    "wins": 3,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/9b28292abe3166d5",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:23.009Z"
+    }
+  },
+  {
+    "name": "John Albert",
+    "nickname": "Prince",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 173,
+    "weight": 61,
+    "reach": 0,
+    "wins": 6,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/7bd94b60d7521e4a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:36:25.770Z"
+    },
+    "biography": "John Albert may refer to:John I Albert (1459–1501), King of Poland\nDuke John Albert of Mecklenburg (1857–1920)\nJohn Albert (canoeist), British slalom canoer\nJohn Albert (fighter), American mixed martial artist\nJohn Albert, American ice hockey player\nJohn David Albert (1810–1899), mountain man, born in Hagerstown, Maryland\nJohn F. Albert (1915–1989), Deputy Chief of Chaplains of the U.S. Air Force",
+    "birthPlace": "Hagerstown"
+  },
+  {
+    "name": "Junior Albini",
+    "nickname": "Baby",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 191,
+    "weight": 120,
+    "reach": 0,
+    "wins": 14,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c482c8605455a213",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:36:28.344Z"
+    },
+    "biography": "Júnior Albini is a Brazilian professional mixed martial artist who competed in the Heavyweight division of the Ultimate Fighting Championship."
+  },
+  {
+    "name": "Wes Albritton",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 178,
+    "weight": 85,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/184b955181bdef52",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:30.894Z"
+    }
+  },
+  {
+    "name": "Aleksandra Albu",
+    "nickname": "Stitch",
+    "weightClass": "FLYWEIGHT",
+    "height": 157,
+    "weight": 52,
+    "reach": 0,
+    "wins": 3,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/e76d9f656ceb82ab",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:36:33.756Z"
+    },
+    "biography": "Aleksandra Albu is a Moldovan-born Russian mixed martial artist. Albu previously competed in the Ultimate Fighting Championship’s strawweight division."
+  },
+  {
+    "name": "Israel Albuquerque",
+    "weightClass": "MIDDLEWEIGHT",
+    "weight": 84,
+    "wins": 0,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/dd1b90eea08887f6",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:37.037Z"
+    }
+  },
+  {
+    "name": "Juan Alcain",
+    "weightClass": "WELTERWEIGHT",
+    "wins": 1,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/39f62b833e4cf126",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:39.702Z"
+    }
+  },
+  {
+    "name": "Iuri Alcantara",
+    "nickname": "Marajo",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 175,
+    "weight": 61,
+    "reach": 0,
+    "wins": 35,
+    "losses": 10,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/2f95a3c6d58b2aad",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:36:42.256Z"
+    },
+    "biography": "Iuri Alcântara is a Brazilian mixed martial artist who competed in the UFC bantamweight division. A professional MMA competitor since 2003, Alcântara mostly fought in Brazil before signing with World Extreme Cagefighting to take part in their final event. He is the brother of fellow UFC fighter Ildemar Alcântara."
+  },
+  {
+    "name": "Ildemar Alcantara",
+    "nickname": "Marajo",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 188,
+    "weight": 84,
+    "reach": 0,
+    "wins": 21,
+    "losses": 11,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/7c6e87729e824ef4",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:36:45.886Z"
+    },
+    "biography": "Ildemar Alcântara is a Brazilian mixed martial artist currently competing in the light heavyweight division. A professional competitor since 2005, he has formerly competed in the UFC and is the younger brother of former UFC fighter Iuri Alcântara."
+  },
+  {
+    "name": "Alfonso Alcarez",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 160,
+    "weight": 66,
+    "wins": 1,
+    "losses": 3,
+    "draws": 1,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1e38bba6738b7b10",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:48.306Z"
+    }
+  },
+  {
+    "name": "Gilbert Aldana",
+    "nickname": "El Peligro",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 185,
+    "weight": 113,
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d26934530dc5b248",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:50.858Z"
+    }
+  },
+  {
+    "name": "Irene Aldana",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 175,
+    "weight": 61,
+    "reach": 0,
+    "wins": 15,
+    "losses": 8,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/578ef12674df1e6a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:36:53.422Z"
+    },
+    "biography": "Irene Aldana Robles is a Mexican professional mixed martial artist. She currently competes in the women's Bantamweight division of the Ultimate Fighting Championship (UFC). As of September 17, 2024, she is #6 in the UFC women's bantamweight rankings."
+  },
+  {
+    "name": "Hector Aldana",
+    "weightClass": "WELTERWEIGHT",
+    "height": 180,
+    "weight": 77,
+    "reach": 0,
+    "wins": 4,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c487223b0289bda9",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:36:56.088Z"
+    },
+    "biography": "Hector Aldana is a Mexican mixed martial artist who competed in the Welterweight division of the Ultimate Fighting Championship (UFC)."
+  },
+  {
+    "name": "Jose Alday",
+    "nickname": "Pochito",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 170,
+    "weight": 61,
+    "reach": 0,
+    "wins": 14,
+    "losses": 6,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/7460ddef986d3144",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:36:58.751Z"
+    }
+  },
+  {
+    "name": "Jose Aldo",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 170,
+    "weight": 61,
+    "reach": 0,
+    "wins": 32,
+    "losses": 10,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d0f3959b4a9747e6",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:37:01.611Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jos%C3%A9_Aldo%2C_UFC_189_World_Tour_London_%282%29_%28cropped%29.jpg/330px-Jos%C3%A9_Aldo%2C_UFC_189_World_Tour_London_%282%29_%28cropped%29.jpg",
+    "biography": "José Aldo da Silva Oliveira Júnior, known as José Aldo, is a Brazilian former professional mixed martial artist and professional boxer who competed in the Bantamweight and Featherweight divisions of the Ultimate Fighting Championship (UFC), where he was the inaugural and longest-reigning UFC Featherweight Champion, becoming champion after the UFC/WEC merger. \nAldo is also the former interim UFC Featherweight Champion. He formerly competed in World Extreme Cagefighting, where he was the fourth and final WEC Featherweight Champion. Aldo is considered to be one of the greatest mixed martial artists of all time, and is often regarded as one of the greatest featherweights of all time after defending his UFC title seven times and his WEC title twice."
+  },
+  {
+    "name": "JJ Aldrich",
+    "weightClass": "FLYWEIGHT",
+    "height": 165,
+    "weight": 57,
+    "reach": 0,
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/6fd953151d981979",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:37:03.960Z"
+    },
+    "biography": "JJ Aldrich is an American mixed martial artist who competes in the Flyweight division. She is currently signed with the Ultimate Fighting Championship and has fought for Invicta FC. As of June 17, 2025, she is #15 in the UFC women's flyweight rankings."
+  },
+  {
+    "name": "Irina Alekseeva",
+    "nickname": "Russian Ronda",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 173,
+    "weight": 61,
+    "reach": 0,
+    "wins": 5,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/103e2e33a60683e1",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:37:06.248Z"
+    }
+  },
+  {
+    "name": "Talita Alencar",
+    "nickname": "Problem Child",
+    "weightClass": "FLYWEIGHT",
+    "height": 155,
+    "weight": 52,
+    "reach": 0,
+    "wins": 6,
+    "losses": 1,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d35298b6df168456",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:37:08.774Z"
+    },
+    "biography": "Ana Talita de Oliveira Alencar is a Brazilian mixed martial artist and black belt Brazilian jiu-jitsu (BJJ) practitioner. She currently competes in the women's Strawweight division of the Ultimate Fighting Championship. A World jiu-jitsu Champion in colored belts, she is a three-time IBJJF World No-Gi Champion, and two-time European No-Gi Champion and a World IBJJF and Pan American jiu-jitsu black belt Champion."
+  },
+  {
+    "name": "Jim Alers",
+    "nickname": "The Beast",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 175,
+    "weight": 66,
+    "reach": 0,
+    "wins": 13,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/fe5a9547479396ab",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:37:11.855Z"
+    },
+    "biography": "Jim Alers is an American professional bare knuckle boxer. A professional MMA fighter from 2008 until 2018, he fought in the UFC and is the former Cage Warriors Featherweight Champion.",
+    "birthPlace": "2008 until 2018"
+  },
+  {
+    "name": "John Alessio",
+    "nickname": "The Natural",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 178,
+    "weight": 70,
+    "reach": 0,
+    "wins": 35,
+    "losses": 17,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/7a15f3694c5cbc02",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:37:14.513Z"
+    },
+    "biography": "John Paul Alessio is a Canadian retired professional mixed martial artist. A former competitor in Bellator's Lightweight division. A professional competitor since 1998, Alessio has also formerly competed for the UFC where he was a former Welterweight title challenger, the WEC, PRIDE, King of the Cage, MFC and DREAM. Alessio is also the former King of the Cage Welterweight Champion and King of the Cage Superfight Champion."
+  },
+  {
+    "name": "Houston Alexander",
+    "nickname": "The Assassin",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 183,
+    "weight": 93,
+    "reach": 0,
+    "wins": 17,
+    "losses": 15,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/0541480fbf719d86",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:37:18.104Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/HoustonAlexander.png/330px-HoustonAlexander.png",
+    "biography": "Houston Alexander is an American former professional mixed martial artist who last competed in 2017. A professional competitor since 2001, he has fought for the Ultimate Fighting Championship (UFC), Bellator MMA, Shark Fights, the Resurrection Fighting Alliance (RFA), and Konfrontacja Sztuk Walki (KSW). He currently competes in bare-knuckle boxing for Bare Knuckle Fighting Championship, where he is 4-0. As of July 25, 2024, he is tied at #5 in the BKFC men's pound-for-pound rankings."
+  },
+  {
+    "name": "Kenneth Alexander",
+    "nickname": "The Machine",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 175,
+    "weight": 70,
+    "wins": 7,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/8fd76e1b49c00ae2",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:37:20.140Z"
+    }
+  },
+  {
+    "name": "Lucas Alexander",
+    "nickname": "The Lion",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 180,
+    "weight": 66,
+    "reach": 0,
+    "wins": 8,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/11583163f45c7b31",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:37:22.060Z"
+    }
+  },
+  {
+    "name": "Marcio Alexandre Junior",
+    "nickname": "Lyoto",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 183,
+    "weight": 84,
+    "reach": 0,
+    "wins": 17,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d53482bef23235ba",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:37:25.268Z"
+    }
+  },
+  {
+    "name": "Olaf Alfonso",
+    "weightClass": "WELTERWEIGHT",
+    "height": 188,
+    "weight": 77,
+    "wins": 8,
+    "losses": 12,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/b757c73f443d4fca",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:37:27.936Z"
+    }
+  },
+  {
+    "name": "Pablo Alfonso",
+    "nickname": "The Hurricane",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 173,
+    "weight": 66,
+    "wins": 9,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/4b37a0bc2ab4cae1",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:37:34.993Z"
+    }
+  },
+  {
+    "name": "Levi Alford",
+    "weightClass": "WELTERWEIGHT",
+    "wins": 1,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/41b34b7f11f6d085",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:37:37.962Z"
+    }
+  },
+  {
+    "name": "Bill Algeo",
+    "nickname": "Senor Perfecto",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 183,
+    "weight": 66,
+    "reach": 0,
+    "wins": 18,
+    "losses": 9,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Switch",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/9abc648e76c4493a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:37:40.826Z"
+    },
+    "biography": "Bill Algeo is an American former mixed martial artist who competed in the Featherweight division of the Ultimate Fighting Championship."
+  },
+  {
+    "name": "Royce Alger",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 178,
+    "weight": 90,
+    "wins": 3,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/669a3cb6e394f515",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:37:43.702Z"
+    },
+    "biography": "Royce Alger is an American former freestyle and folkstyle wrestler and retired mixed martial artist. An athlete of wrestling icon Dan Gable, he went on to become a three-time All-American, three-time Big Ten champion, and two-time NCAA National Champion at the 167 and 177 pound weight classes in 1987 and 1988, at the University of Iowa. After going undefeated in his final 78 matches, Alger spent seven years as an assistant wrestling coach with his alma mater. He was also a World silver medalist in freestyle wrestling at the 1990 World Wrestling Championships."
+  },
+  {
+    "name": "Amir Aliakbari",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 191,
+    "weight": 113,
+    "wins": 10,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/e17770faae3ca54c",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:37:46.563Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Amir_Aliakbari_11.jpg/330px-Amir_Aliakbari_11.jpg",
+    "biography": "Amir Aliakbari is an Iranian wrestler and mixed martial artist who he competes in the Heavyweight division. He has also competed for ONE Championship, Absolute Championship Berkut (ACB) and Rizin Fighting Federation."
+  },
+  {
+    "name": "Sultan Aliev",
+    "weightClass": "WELTERWEIGHT",
+    "height": 180,
+    "weight": 77,
+    "reach": 0,
+    "wins": 15,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/e70de1859b7ee78e",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:37:48.622Z"
+    }
+  },
+  {
+    "name": "Nurullo Aliev",
+    "nickname": "Tajik Eagle",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 178,
+    "weight": 70,
+    "reach": 0,
+    "wins": 10,
+    "losses": 0,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/ca28cdf526d6b6e9",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:37:55.747Z"
+    }
+  },
+  {
+    "name": "Ikram Aliskerov",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 183,
+    "weight": 84,
+    "reach": 0,
+    "wins": 16,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/b07aed698fba8624",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:37:59.010Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ikram_Aliskerov_2024.png/330px-Ikram_Aliskerov_2024.png",
+    "biography": "Ikram Sabirovich Aliskerov is a Russian professional mixed martial artist and former combat sambo competitor who currently competes in the middleweight division of the Ultimate Fighting Championship (UFC)."
+  },
+  {
+    "name": "Leon Aliu",
+    "nickname": "The Albanian Lion",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 183,
+    "weight": 84,
+    "reach": 0,
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/6db394bf6c3b017c",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:38:01.450Z"
+    }
+  },
+  {
+    "name": "John Allan",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 185,
+    "weight": 93,
+    "reach": 0,
+    "wins": 13,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/6ebe96a116e79e52",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:38:04.380Z"
+    }
+  },
+  {
+    "name": "George Allen",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 188,
+    "weight": 93,
+    "wins": 13,
+    "losses": 19,
+    "draws": 2,
+    "isActive": true,
+    "stance": "Open Stance",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1e13936d708bcff7",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:38:06.299Z"
+    }
+  },
+  {
+    "name": "Arnold Allen",
+    "nickname": "Almighty",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 173,
+    "weight": 66,
+    "reach": 0,
+    "wins": 20,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/040a74bb0a465c54",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:38:08.471Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arnold_Allen_at_UFC_Fight_Night_147_in_London.jpg/330px-Arnold_Allen_at_UFC_Fight_Night_147_in_London.jpg",
+    "biography": "Arnold Billy Allen is an English professional mixed martial artist. He currently competes in the Featherweight division of the Ultimate Fighting Championship (UFC). As of 1 July 2025, he is #5 in the UFC featherweight rankings."
+  },
+  {
+    "name": "Brendan Allen",
+    "nickname": "All In",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 188,
+    "weight": 84,
+    "reach": 0,
+    "wins": 24,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/2f181c0467965b98",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:38:11.056Z"
+    },
+    "biography": "Brendan Cody Allen is an American professional mixed martial artist. He currently competes in the Middleweight division of the Ultimate Fighting Championship (UFC). A professional since 2015, he has also competed for the Legacy Fighting Alliance, where he is a former Middleweight Champion. As of March 18, 2025, he is #11 in the UFC middleweight rankings."
+  },
+  {
+    "name": "Daniel Allen",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 183,
+    "weight": 70,
+    "reach": 0,
+    "wins": 5,
+    "losses": 0,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/adf9a901308fb8e3",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:38:13.815Z"
+    }
+  },
+  {
+    "name": "Ben Alloway",
+    "nickname": "Blanco",
+    "weightClass": "WELTERWEIGHT",
+    "height": 180,
+    "weight": 77,
+    "reach": 0,
+    "wins": 18,
+    "losses": 8,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c4fe2e9a06ea5bcb",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:38:21.071Z"
+    },
+    "biography": "Ben Alloway is an Australian mixed martial artist. A professional MMA competitor since 2010, he was a competitor on The Ultimate Fighter: The Smashes. Ben formerly fought for the UFC in the welterweight division."
+  },
+  {
+    "name": "Asu Almabayev",
+    "nickname": "Zulfikar",
+    "weightClass": "FLYWEIGHT",
+    "height": 163,
+    "weight": 57,
+    "reach": 0,
+    "wins": 21,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/8d3273573b85be09",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:38:24.284Z"
+    },
+    "biography": "Asu Abaiuly Almabayev is a Kazakh professional mixed martial artist. He currently competes in the Flyweight division of the Ultimate Fighting Championship (UFC). A professional since 2013, Almabayev has also competed in M-1 Global, where he is a former Interim M-1 Global Flyweight Champion. As of July 1, 2025, he is #9 in the UFC flyweight rankings."
+  },
+  {
+    "name": "Bekzat Almakhan",
+    "nickname": "The Turan Warrior",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 170,
+    "weight": 61,
+    "reach": 0,
+    "wins": 12,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/a4dc0f2b95df4cc1",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:38:27.320Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BekzatAlmahan.png/330px-BekzatAlmahan.png",
+    "biography": "Bekzat Almakhan is a Kazakh professional mixed martial artist. He currently competes in the Bantamweight division of the Ultimate Fighting Championship (UFC)."
+  },
+  {
+    "name": "John Dave Almanza",
+    "nickname": "The Striker",
+    "weightClass": "FLYWEIGHT",
+    "height": 170,
+    "weight": 57,
+    "reach": 0,
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/088aa1b19b2dc14a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:38:29.366Z"
+    }
+  },
+  {
+    "name": "Ricardo Almeida",
+    "nickname": "Big Dog",
+    "weightClass": "WELTERWEIGHT",
+    "height": 183,
+    "weight": 77,
+    "reach": 0,
+    "wins": 13,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/91186547a7f3f758",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:38:31.945Z"
+    },
+    "biography": "Ricardo Alves Almeida is a Brazilian-American former mixed martial artist and current Brazilian Jiu-Jitsu grappler residing in Bordentown, New Jersey. Almeida is a veteran of the Ultimate Fighting Championship, PRIDE Fighting Championships, Grapplers Quest, and a former Middleweight King of Pancrase. In Pancrase he had notable wins over Nate Marquardt and Kazuo Misaki. Almeida trains with and teaches former UFC Lightweight Champion Frankie Edgar at his longtime Gracie system gym in Robbinsville, NJ. He also trains former UFC Lightweight champion Eddie Alvarez and The Ultimate Fighter 19 winner Corey Anderson"
+  },
+  {
+    "name": "Magno Almeida",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 183,
+    "weight": 70,
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d615d6a10a4704cd",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:38:34.500Z"
+    }
+  },
+  {
+    "name": "Thomas Almeida",
+    "nickname": "Thominhas",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 170,
+    "weight": 66,
+    "reach": 0,
+    "wins": 22,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/2b074403b7c6cdb4",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:38:37.804Z"
+    },
+    "biography": "Thomas Almeida is a Brazilian professional mixed martial artist, who currently competes in the Bantamweight division. A professional competitor since 2011, Almeida formerly competed for the Ultimate Fighting Championship (UFC) and Legacy FC, where he became the Legacy FC Bantamweight Champion, vacating the title shortly after signing with the UFC."
+  },
+  {
+    "name": "Ericka Almeida",
+    "weightClass": "FLYWEIGHT",
+    "height": 168,
+    "weight": 52,
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/67a992d4cff22466",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:38:42.788Z"
+    }
+  },
+  {
+    "name": "Estefani Almeida",
+    "weightClass": "FLYWEIGHT",
+    "height": 163,
+    "weight": 57,
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/f16ddfa31236efed",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:38:47.391Z"
+    }
+  },
+  {
+    "name": "Jailton Almeida",
+    "nickname": "Malhadinho",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 191,
+    "weight": 93,
+    "reach": 0,
+    "wins": 22,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/41e83a89929d1327",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:38:50.462Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Almeida_2023.png/330px-Almeida_2023.png",
+    "biography": "Jailton Jesus Almeida Júnior is a Brazilian professional mixed martial artist. He currently competes in the Heavyweight division of the Ultimate Fighting Championship (UFC). As of June 24, 2025, he is #5 in the UFC heavyweight rankings."
+  },
+  {
+    "name": "Lucas Almeida",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 180,
+    "weight": 66,
+    "reach": 0,
+    "wins": 15,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/710f0f8c5d5c9d41",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:38:52.720Z"
+    }
+  },
+  {
+    "name": "Cesar Almeida",
+    "nickname": "Cesinha",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 185,
+    "weight": 84,
+    "reach": 0,
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/64d47ef881a437a4",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:38:56.503Z"
+    },
+    "biography": "César Almeida may refer to:César Almeida (fighter), Brazilian kickboxer and mixed martial artist\nCésar Almeida (handballer), Brazilian handball player\n"
+  },
+  {
+    "name": "Mauricio Alonso",
+    "weightClass": "WELTERWEIGHT",
+    "height": 188,
+    "weight": 77,
+    "wins": 13,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c6bf75775b278ed8",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:01.074Z"
+    }
+  },
+  {
+    "name": "Sarah Alpar",
+    "nickname": "Too Sweet",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 163,
+    "weight": 61,
+    "reach": 0,
+    "wins": 9,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/49b130de1da2e1bf",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:03.156Z"
+    }
+  },
+  {
+    "name": "Ali AlQaisi",
+    "nickname": "The Royal Fighter",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 168,
+    "weight": 61,
+    "reach": 0,
+    "wins": 8,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/e87a13e02c01331d",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:05.718Z"
+    }
+  },
+  {
+    "name": "Rico Altamirano",
+    "weightClass": "WELTERWEIGHT",
+    "height": 178,
+    "weight": 77,
+    "wins": 4,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c61b49cec6abd6b9",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:08.191Z"
+    }
+  },
+  {
+    "name": "Victor Altamirano",
+    "nickname": "El Magnifico",
+    "weightClass": "FLYWEIGHT",
+    "height": 173,
+    "weight": 57,
+    "reach": 0,
+    "wins": 12,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Switch",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/dc7927cd622676a7",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:10.557Z"
+    }
+  },
+  {
+    "name": "Mike Altman",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 178,
+    "weight": 84,
+    "wins": 1,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c11036da9162cb5f",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:12.993Z"
+    }
+  },
+  {
+    "name": "Patricia Alujas",
+    "nickname": "The Angel",
+    "weightClass": "FLYWEIGHT",
+    "height": 163,
+    "weight": 52,
+    "reach": 0,
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/430c533614d45813",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:15.152Z"
+    }
+  },
+  {
+    "name": "Sean Alvarez",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 183,
+    "weight": 107,
+    "wins": 4,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/e741536153227386",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:39:17.903Z"
+    },
+    "biography": "Sean Alvarez is an American retired mixed martial artist and grappler. He competed in the Heavyweight division. An accomplished grappler, Alvarez won gold medals at the Brazilian jiu-jitsu World Championships and the Pan American Championships as well three-silver medals at the ADCC Submission Wrestling World Championship. In MMA, he competed for the UFC, King of the Cage, and RINGS."
+  },
+  {
+    "name": "Eddie Alvarez",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 175,
+    "weight": 70,
+    "reach": 0,
+    "wins": 29,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/33a331684283900f",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:39:21.075Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Eddie_Alvarez.jpg/330px-Eddie_Alvarez.jpg",
+    "biography": "Edward Alvarez is an American professional mixed martial artist and bare-knuckle boxer who most recently competed in the Welterweight division of BKFC. He formerly competed in the Lightweight divisions of the UFC and Bellator MMA, where he was the UFC Lightweight Champion, and the inaugural and two-time Bellator Lightweight Champion. He also competed for the Japanese DREAM promotion, where he fought in their inaugural Lightweight Grand Prix, along with fighting in ONE FC, where he competed in their 2019 Lightweight World Grand Prix. Alvarez has also competed in EliteXC."
+  },
+  {
+    "name": "Jaime Alvarez",
+    "weightClass": "FLYWEIGHT",
+    "height": 173,
+    "weight": 57,
+    "reach": 0,
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/4438482bd1d5a029",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:23.209Z"
+    }
+  },
+  {
+    "name": "Joel Alvarez",
+    "nickname": "El Fenomeno",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 191,
+    "weight": 70,
+    "reach": 0,
+    "wins": 22,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/58bbef3770bb2dfc",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:39:25.889Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Joel-alvarez-posando.jpg/330px-Joel-alvarez-posando.jpg",
+    "biography": "Joel Álvarez González is a Spanish professional mixed martial artist. He currently competes in the Lightweight division of the Ultimate Fighting Championship (UFC)."
+  },
+  {
+    "name": "Thiago Alves",
+    "nickname": "Pitbull",
+    "weightClass": "WELTERWEIGHT",
+    "height": 175,
+    "weight": 77,
+    "reach": 0,
+    "wins": 23,
+    "losses": 15,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/31ee470ef5dc8d7f",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:39:28.263Z"
+    },
+    "biography": "Thiago Alves may refer to:Thiago Alves (tennis), Brazilian tennis player\nThiago Alves (fighter), Brazilian mixed martial artist\nThiago Soares Alves, Brazilian volleyball player"
+  },
+  {
+    "name": "Anthony Alves",
+    "weightClass": "WELTERWEIGHT",
+    "wins": 1,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/bd92cf5da5413d2a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:31.641Z"
+    }
+  },
+  {
+    "name": "Amilcar Alves",
+    "weightClass": "WELTERWEIGHT",
+    "height": 183,
+    "weight": 77,
+    "wins": 15,
+    "losses": 12,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/dc5a6b2fdb27e7dc",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:33.935Z"
+    }
+  },
+  {
+    "name": "Warlley Alves",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 180,
+    "weight": 84,
+    "reach": 0,
+    "wins": 15,
+    "losses": 8,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d317a5e2b3f88c5f",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:39:36.850Z"
+    },
+    "biography": "Warlley Alves is a Brazilian mixed martial artist who competed in the Welterweight and Middleweight divisions of the Ultimate Fighting Championship. A professional MMA competitor since 2011, Warlley made a name for himself fighting at Jungle Fight. He is the winner of The Ultimate Fighter: Brazil 3 Middleweight tournament."
+  },
+  {
+    "name": "Rafael Alves",
+    "nickname": "The Turn",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 173,
+    "weight": 70,
+    "reach": 0,
+    "wins": 20,
+    "losses": 12,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/029afd138865d20a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:39:39.005Z"
+    },
+    "biography": "Rafael Alves may refer to:Rafael Alves (fighter), born 1990, Brazilian mixed martial artist\nRafael Alves, Brazilian footballer who plays as a defender\nRafael Alves, Portuguese footballer who plays as a goalkeeper\n"
+  },
+  {
+    "name": "Sam Alvey",
+    "nickname": "Smile'N",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 188,
+    "weight": 84,
+    "reach": 0,
+    "wins": 33,
+    "losses": 18,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d156513a19acf856",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:39:41.251Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SamAlvey.jpg/330px-SamAlvey.jpg",
+    "biography": "Sam Alvey is an American professional mixed martial artist, who competed in the Middleweight division of the Ultimate Fighting Championship (UFC). He is the current Karate Combat Heavyweight Champion. A professional MMA competitor since 2008, Alvey has also formerly competed for Bellator, King of the Cage, the MFC, and was a contestant on The Ultimate Fighter 16: Team Carwin vs. Team Nelson."
+  },
+  {
+    "name": "Mahamed Aly",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "weight": 93,
+    "wins": 4,
+    "losses": 0,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/86c1441676af2c73",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:43.395Z"
+    }
+  },
+  {
+    "name": "Andre Amado",
+    "nickname": "Dida",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 183,
+    "weight": 70,
+    "wins": 6,
+    "losses": 4,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/20821819c401ced8",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:45.962Z"
+    }
+  },
+  {
+    "name": "Adlan Amagov",
+    "nickname": "Borz",
+    "weightClass": "WELTERWEIGHT",
+    "height": 188,
+    "weight": 77,
+    "reach": 0,
+    "wins": 14,
+    "losses": 2,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1e327b281ef6a745",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:39:48.932Z"
+    },
+    "biography": "Adlan Mairbekovich Amagov is a Russian former mixed martial artist and kickboxer who most recently competed in the welterweight division of the Ultimate Fighting Championship. A professional competitor from 2007 to 2016, Amagov also formerly competed for Strikeforce and is the former Unifight World Champion.",
+    "birthPlace": "2007 to 2016"
+  },
+  {
+    "name": "Maiara Amanajas dos Santos",
+    "weightClass": "FLYWEIGHT",
+    "height": 165,
+    "weight": 52,
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/247fbbfafea60bb1",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:51.495Z"
+    }
+  },
+  {
+    "name": "Chris Amarante",
+    "weightClass": "MIDDLEWEIGHT",
+    "weight": 84,
+    "wins": 2,
+    "losses": 0,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/ee0b69e307c857e5",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:54.768Z"
+    }
+  },
+  {
+    "name": "Jimmy Ambriz",
+    "nickname": "The Titan",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 188,
+    "weight": 143,
+    "wins": 17,
+    "losses": 21,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c912f676692c353a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:39:57.548Z"
+    }
+  },
+  {
+    "name": "JJ Ambrose",
+    "weightClass": "WELTERWEIGHT",
+    "height": 178,
+    "weight": 77,
+    "wins": 28,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d562b12b8fe88336",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:39:59.894Z"
+    },
+    "biography": "J.J. Ambrose is an American mixed martial artist currently competing in One Fighting Championship. He has also competed for Bellator's Lightweight division, Affliction and Pacific Xtreme Combat."
+  },
+  {
+    "name": "Alen Amedovski",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 178,
+    "weight": 84,
+    "reach": 0,
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/70fa1c64a2c439ef",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:02.904Z"
+    },
+    "biography": "Alen Amedovski is a Macedonian mixed martial artist who competes in the Middleweight division. He has formerly fought for the Ultimate Fighting Championship."
+  },
+  {
+    "name": "Hyder Amil",
+    "nickname": "The Hurricane",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 175,
+    "weight": 66,
+    "reach": 0,
+    "wins": 11,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Switch",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/41cc71cbf210e0fe",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:05.517Z"
+    },
+    "biography": "Hyder Osman Amil is a Filipino and American mixed martial artist. He currently competes in the Featherweight division of the Ultimate Fighting Championship (UFC)."
+  },
+  {
+    "name": "Hamid Amiri",
+    "nickname": "The Storm",
+    "weightClass": "FEATHERWEIGHT",
+    "weight": 66,
+    "wins": 9,
+    "losses": 0,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/6c40705cf6c0d7e2",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:40:08.290Z"
+    }
+  },
+  {
+    "name": "Makwan Amirkhani",
+    "nickname": "Mr. Finland",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 178,
+    "weight": 66,
+    "reach": 0,
+    "wins": 17,
+    "losses": 9,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/87a1dc546b1c5caf",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:10.845Z"
+    },
+    "biography": "Makwan Amirkhani is a Finnish mixed martial artist who competes in the Featherweight division. He is most notable for his time in the Ultimate Fighting Championship."
+  },
+  {
+    "name": "Jaqueline Amorim",
+    "weightClass": "FLYWEIGHT",
+    "height": 160,
+    "weight": 52,
+    "reach": 0,
+    "wins": 10,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/bc7d1ad49fcb2d08",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:40:14.234Z"
+    }
+  },
+  {
+    "name": "Bertrand Amoussou",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 173,
+    "weight": 86,
+    "wins": 1,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/53adf5b845d91e4a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:17.958Z"
+    },
+    "biography": "Bertrand Amoussou-Guenou is a retired French mixed martial artist and judoka. He is a trainer for his younger brother Karl of Team Amoussou and, following official recognition of mixed martial arts in France, became the president of the national sanctioning body, the Commission National de Mixed Martial Arts, in January 2008. On 1 October 2013, Amoussou assumed the position of president of the International Mixed Martial Arts Federation (IMMAF)."
+  },
+  {
+    "name": "Karl Amoussou",
+    "nickname": "The Psycho",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 180,
+    "weight": 84,
+    "wins": 27,
+    "losses": 7,
+    "draws": 2,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/23a8c33869bf5392",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:20.679Z"
+    },
+    "biography": "Karl Amoussou is a French-German professional mixed martial artist who most recently competed in the Welterweight division of Cage Warriors, where he is the current Welterweight Champion. A professional competitor since 2006, he has also formerly competed for Strikeforce, DREAM, M-1 Global, Pancrase and Bellator MMA."
+  },
+  {
+    "name": "Eryk Anders",
+    "nickname": "Ya Boi",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 185,
+    "weight": 84,
+    "reach": 0,
+    "wins": 17,
+    "losses": 8,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/cad24459b28592ca",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:23.440Z"
+    },
+    "biography": "Eryk Anders is an American professional mixed martial artist and former American football linebacker. He competes in the Middleweight division of the UFC. He played college football at the University of Alabama."
+  },
+  {
+    "name": "Matt Andersen",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 188,
+    "weight": 104,
+    "wins": 14,
+    "losses": 8,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/8738eacd62e82a32",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:40:26.519Z"
+    }
+  },
+  {
+    "name": "Andy Anderson",
+    "nickname": "The Hammer",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 168,
+    "weight": 109,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/9199e0735b83dd32",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:40:28.658Z"
+    }
+  },
+  {
+    "name": "Lowell Anderson",
+    "weightClass": "WELTERWEIGHT",
+    "height": 168,
+    "weight": 73,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1ffc38f67785797b",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:40:30.411Z"
+    }
+  },
+  {
+    "name": "Corey Anderson",
+    "nickname": "Overtime",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 191,
+    "weight": 93,
+    "reach": 0,
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/5e4eec08896c9423",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:33.074Z"
+    },
+    "biography": "Corey Anderson may refer to:Corey Anderson (fighter), American mixed martial artist\nCorey Anderson (cricketer), New Zealand cricketer\nCorey Anderson, Australian javelin thrower\n"
+  },
+  {
+    "name": "Derek Anderson",
+    "nickname": "Barbaric",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 183,
+    "weight": 70,
+    "wins": 14,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/19ba965651486013",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:36.145Z"
+    },
+    "biography": "Derek Anderson may refer to:Derek Anderson, American football quarterback\nDerek Anderson (basketball), basketball player\nDerek Anderson (footballer), Scottish football (soccer) player\nDerek Anderson (fighter), American mixed martial artist"
+  },
+  {
+    "name": "Megan Anderson",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 183,
+    "weight": 66,
+    "reach": 0,
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/a0e75f4a13eb73f1",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:38.802Z"
+    },
+    "biography": "Megan Anderson, may refer to:Megan Anderson (fighter), Australian MMA fighter\nMegan Anderson (netball), Australian netballer\n"
+  },
+  {
+    "name": "Liam Anderson",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 191,
+    "weight": 84,
+    "reach": 0,
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/b03a0c78ca45facf",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:40:41.470Z"
+    }
+  },
+  {
+    "name": "Tatsuya Ando",
+    "nickname": "Kirinji",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 163,
+    "weight": 66,
+    "reach": 0,
+    "wins": 14,
+    "losses": 4,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/17615148dd4be6f6",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:40:44.130Z"
+    }
+  },
+  {
+    "name": "Alex Andrade",
+    "nickname": "El Toro",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 180,
+    "weight": 91,
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1562b12763cc8d67",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:40:46.479Z"
+    }
+  },
+  {
+    "name": "Jessica Andrade",
+    "nickname": "Bate Estaca",
+    "weightClass": "FLYWEIGHT",
+    "height": 155,
+    "weight": 52,
+    "reach": 0,
+    "wins": 26,
+    "losses": 14,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/6a1901c62ab3870f",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:48.708Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jessica_Andrade_at_UFC_228.jpg/330px-Jessica_Andrade_at_UFC_228.jpg",
+    "biography": "Jéssica Fernanda da Costa Andrade is a Brazilian professional mixed martial artist. She currently competes in the women's Strawweight and Flyweight divisions of the Ultimate Fighting Championship (UFC), where she is a former UFC Women's Strawweight Champion. As of May 6, 2025, she is #5 in the UFC women's strawweight rankings, and as of May 13, 2025, she is #9 in the UFC women's flyweight rankings."
+  },
+  {
+    "name": "Viscardi Andrade",
+    "weightClass": "WELTERWEIGHT",
+    "height": 180,
+    "weight": 77,
+    "reach": 0,
+    "wins": 19,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d221ee27afc7a60e",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:51.090Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Viscarde_de_Andrade_MMA.jpg/330px-Viscarde_de_Andrade_MMA.jpg",
+    "biography": "Viscardi Andrade Guimarães is a Brazilian mixed martial artist who competes in the Welterweight division of Taura MMA. A professional competitor since 2006, he was also a contestant on The Ultimate Fighter: Brazil 2 before joining the Ultimate Fighting Championship, and has also formerly competed for Jungle Fight."
+  },
+  {
+    "name": "Jermaine Andre",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 170,
+    "weight": 91,
+    "wins": 14,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/9bad58fa651d6196",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:40:53.240Z"
+    }
+  },
+  {
+    "name": "Juan Andres Luna",
+    "weightClass": "FLYWEIGHT",
+    "height": 170,
+    "weight": 57,
+    "reach": 0,
+    "wins": 12,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1fd9f744105024a8",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:40:56.008Z"
+    }
+  },
+  {
+    "name": "Fellipe Andrew",
+    "weightClass": "WELTERWEIGHT",
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/7977fb0fd9c5955d",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:40:58.778Z"
+    },
+    "biography": "Fellipe Andrew Silva is a Brazilian jiu-jitsu black belt under Rodrigo Cavaca. He is the 2021 World Champion in the absolute division and 2023 World Champion in the 94 kg division. He is Euros Champion in 2019, 2020, 2022, and 2023. He is the Pan Champion of 2019, 2020, and 2021.\nAndrew was among six champions in the inaugural IBJJF Crown in 2023.\nIn the lead-up to his championship wins, he was training at Zenith BJJ under Robert Drysdale. He later moved to Alliance Jiu Jitsu, and then Art of Jiu Jitsu in Costa Mesa in 2024. In September 2024 Andrew was stripped of his Pan Ams medal and accepted two years of ineligibility for failing anti-doping tests."
+  },
+  {
+    "name": "Dylan Andrews",
+    "nickname": "The Villain",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 185,
+    "weight": 84,
+    "reach": 0,
+    "wins": 18,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Switch",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/00debc804e2b1cd4",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:41:01.441Z"
+    },
+    "biography": "Dylan Andrews is a mixed martial artist from New Zealand who most recently competed in the Welterweight division of Absolute Championship Berkut. A professional competitor since 2006, he has formerly competed in the UFC, and was a semi-finalist on FX's The Ultimate Fighter: Team Jones vs. Team Sonnen.",
+    "birthPlace": "New Zealand who most recently competed in the Welterweight division of Absolute Championship Berkut. A professional competitor since 2006"
+  },
+  {
+    "name": "Reese Andy",
+    "nickname": "Riptide",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 183,
+    "weight": 93,
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/46e2ca71fd5089cb",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:41:03.895Z"
+    },
+    "biography": "Reese Paul Andy is a retired American mixed martial artist. A professional from 2005 until 2008, he fought in the UFC and was a member of the Seattle Tiger Sharks in the IFL.",
+    "birthPlace": "2005 until 2008"
+  },
+  {
+    "name": "Julius Anglickas",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 191,
+    "weight": 93,
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/e20ad078a7d63361",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:41:06.448Z"
+    },
+    "biography": "Julius Anglickas is a Lithuanian mixed martial artist who competes in the Light Heavyweight division. He has previously fought for Bellator MMA, where he fought for the Bellator Light Heavyweight Championship."
+  },
+  {
+    "name": "Collin Anglin",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 175,
+    "weight": 66,
+    "reach": 0,
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/047a91d3d9c79b05",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:41:08.912Z"
+    }
+  },
+  {
+    "name": "Chad Anheliger",
+    "nickname": "The Monster",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 168,
+    "weight": 61,
+    "reach": 0,
+    "wins": 13,
+    "losses": 8,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c7c39e2fb70248b3",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:41:11.365Z"
+    }
+  },
+  {
+    "name": "Yoji Anjo",
+    "nickname": "Mr. 200%",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 180,
+    "weight": 93,
+    "wins": 0,
+    "losses": 5,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/e06fd1260ac865a7",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:41:13.827Z"
+    }
+  },
+  {
+    "name": "Magomed Ankalaev",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 191,
+    "weight": 93,
+    "reach": 0,
+    "wins": 21,
+    "losses": 1,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d802174b0c0c1f4e",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:41:16.177Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Magomed_Ankalaev_at_UFC_Fight_Night_136_in_Moscow%2C_Russia.jpg/330px-Magomed_Ankalaev_at_UFC_Fight_Night_136_in_Moscow%2C_Russia.jpg",
+    "biography": "Magomed Alibulatovich Ankalaev is a Russian professional mixed martial artist. He currently competes in the Ultimate Fighting Championship (UFC), where he is the current UFC Light Heavyweight Champion. As of July 1, 2025, he is #7 in the UFC men's pound-for-pound rankings."
+  },
+  {
+    "name": "Gadzhimurad Antigulov",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 180,
+    "weight": 93,
+    "reach": 0,
+    "wins": 20,
+    "losses": 8,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/af997f7611673880",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:41:18.015Z"
+    },
+    "biography": "Gadzhimurad Antigulov is a Russian mixed martial artist who currently competing in the Light Heavyweight division. A professional since 2009, he has fought for the Ultimate Fighting Championship (UFC), M-1 Global, and Absolute Championship Berkut, where he was a two-time light heavyweight champion."
+  },
+  {
+    "name": "Adam Antolin",
+    "nickname": "Captain Chaos",
+    "weightClass": "FLYWEIGHT",
+    "height": 165,
+    "weight": 57,
+    "reach": 0,
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/25b31165758402dd",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:41:21.096Z"
+    }
+  },
+  {
+    "name": "Angelo Antonio",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "weight": 93,
+    "wins": 1,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/dbd198f780286aca",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:41:23.652Z"
+    }
+  },
+  {
+    "name": "Vanilto Antunes",
+    "weightClass": "WELTERWEIGHT",
+    "height": 183,
+    "weight": 77,
+    "reach": 0,
+    "wins": 16,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/cc49ada1ea955b13",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:41:26.420Z"
+    }
+  },
+  {
+    "name": "Azunna Anyanwu",
+    "nickname": "Zulu",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 185,
+    "weight": 114,
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/78d48d3874dacafd",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:41:29.021Z"
+    }
+  },
+  {
+    "name": "Shinsho Anzai",
+    "nickname": "Animal",
+    "weightClass": "WELTERWEIGHT",
+    "height": 170,
+    "weight": 77,
+    "reach": 0,
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/4665f9f909cd7214",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:41:32.357Z"
+    },
+    "biography": "Shinsho Anzai  is a Japanese mixed martial artist and wrestler. A professional competitor since 2009, he has fought in the UFC, Bellator, Pancrase and King of the Cage."
+  },
+  {
+    "name": "Jin Aoi",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 168,
+    "weight": 66,
+    "reach": 0,
+    "wins": 14,
+    "losses": 6,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/031da10a00c8ccd4",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:41:35.429Z"
+    }
+  },
+  {
+    "name": "Shinya Aoki",
+    "nickname": "Tobikan Judan",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 180,
+    "weight": 70,
+    "wins": 39,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/79ded75550efc139",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:41:38.090Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/KO-D%E7%84%A1%E5%B7%AE%E5%88%A5%E7%B4%9A%E7%8E%8B%E8%80%85%E3%83%BB%E9%9D%92%E6%9C%A8%E7%9C%9F%E4%B9%9F.jpg/330px-KO-D%E7%84%A1%E5%B7%AE%E5%88%A5%E7%B4%9A%E7%8E%8B%E8%80%85%E3%83%BB%E9%9D%92%E6%9C%A8%E7%9C%9F%E4%B9%9F.jpg",
+    "biography": "Shinya Aoki  is a Japanese mixed martial artist, professional wrestler and grappler competing in ONE Championship's Welterweight division. He also competes in DDT Pro-Wrestling where he is a former three-time DDT Extreme Champion and former one-time KO-D Openweight Champion. A professional competitor since 2003, he is noted for being the DREAM Lightweight Champion, former two time ONE Lightweight World Champion, former WAMMA Lightweight Champion and former Shooto Welterweight Champion. Aoki is an A-class Shootist and BJJ black belt, both under his long-term mentor Yuki Nakai, as well as a black belt Judoka. As of 2008, Aoki, along with DEEP champion Masakazu Imanari, and Sengoku champion Satoru Kitaoka have founded the \"Nippon Top Team\" as a group of elite Japanese grapplers competing in MMA. As well as his MMA credentials, Aoki has garnered several submission grappling accolades including two All Japan Jiu-Jitsu Championships, a Japan Open Jiu-Jitsu Championship, a Budo Open Championship, and an ADCC Japan Championship."
+  },
+  {
+    "name": "Josh Appelt",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 178,
+    "weight": 116,
+    "wins": 15,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/0c1a04afca64e38f",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:41:43.819Z"
+    },
+    "biography": "Josh Appelt is an American mixed martial artist currently competing in the Heavyweight division. A professional competitor since 2009, he has competed for Bellator and King of the Cage."
+  },
+  {
+    "name": "Erik Apple",
+    "weightClass": "WELTERWEIGHT",
+    "height": 183,
+    "weight": 77,
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1ccff7f0cfdf85eb",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:41:46.590Z"
+    },
+    "biography": "Erik Apple  is an American former professional mixed martial arts fighter. A professional competitor from 1989 until 2011, he fought for the WEC, Strikeforce, King of the Cage, and ShoXC. Apple also played the character of Pete \"Mad Dog\" Grimes in the 2011 film Warrior.",
+    "birthPlace": "1989 until 2011"
+  },
+  {
+    "name": "Kenji Arai",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 178,
+    "weight": 66,
+    "wins": 15,
+    "losses": 15,
+    "draws": 5,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/269d103c96a4c3a5",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:41:48.998Z"
+    }
+  },
+  {
+    "name": "Romie Aram",
+    "weightClass": "WELTERWEIGHT",
+    "height": 178,
+    "weight": 77,
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/73ef22f25d0f70e2",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:41:52.119Z"
+    }
+  },
+  {
+    "name": "Felipe Arantes",
+    "nickname": "Sertanejo",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 173,
+    "weight": 61,
+    "reach": 0,
+    "wins": 18,
+    "losses": 10,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/71002dbc1743b9a7",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:41:55.599Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Felipe_Sertanejo_Arantes.jpg/330px-Felipe_Sertanejo_Arantes.jpg",
+    "biography": "Felipe Arantes is a retired Brazilian mixed martial artist, who competed in the bantamweight and featherweight divisions. A professional MMA competitor from 2008 to 2018, Arantes mostly fought in Brazil before signing with the UFC.",
+    "birthPlace": "2008 to 2018"
+  },
+  {
+    "name": "Igor Araujo",
+    "weightClass": "WELTERWEIGHT",
+    "height": 185,
+    "weight": 77,
+    "reach": 0,
+    "wins": 25,
+    "losses": 9,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/dbea8c1cb327ab3d",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:41:57.542Z"
+    },
+    "biography": "Igor Araújo is a Brazilian professional mixed martial artist currently competing in the Welterweight division. A professional competitor since 2004, Araújo has formerly competed for the UFC, M-1 Global, Shooto, KSW, and was a contestant on The Ultimate Fighter: Team Carwin vs. Team Nelson."
+  },
+  {
+    "name": "Viviane Araujo",
+    "nickname": "Vivi",
+    "weightClass": "FLYWEIGHT",
+    "height": 163,
+    "weight": 57,
+    "reach": 0,
+    "wins": 13,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/36541f1e6c5d4955",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:42:00.209Z"
+    },
+    "biography": "Viviane Araújo may refer to:Viviane Araújo (actress), Brazilian actress and model\nViviane Araújo (fighter), Brazilian mixed martial artist\n"
+  },
+  {
+    "name": "Julio Arce",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 170,
+    "weight": 66,
+    "reach": 0,
+    "wins": 19,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1291edf2d566a71a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:42:03.183Z"
+    },
+    "biography": "Julio Arce is an American mixed martial artist. He was the former Ring of Combat bantamweight and featherweight champion. He also won the Golden Gloves 2011 Championship. Arce competed in the Bantamweight division in the UFC."
+  },
+  {
+    "name": "Art Arciniega",
+    "nickname": "King Arthur",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 173,
+    "weight": 66,
+    "wins": 15,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d25e39e74efb0a77",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:05.850Z"
+    }
+  },
+  {
+    "name": "Alice Ardelean",
+    "weightClass": "FLYWEIGHT",
+    "height": 160,
+    "weight": 52,
+    "reach": 0,
+    "wins": 10,
+    "losses": 7,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/87f8699fdcc2c404",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:08.648Z"
+    }
+  },
+  {
+    "name": "Tristan Arenal",
+    "weightClass": "LIGHTWEIGHT",
+    "weight": 70,
+    "wins": 7,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/9c9455912d917e4e",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:11.168Z"
+    }
+  },
+  {
+    "name": "Gabriel Arges",
+    "weightClass": "WELTERWEIGHT",
+    "weight": 77,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/db3c4a884d704efe",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:14.545Z"
+    }
+  },
+  {
+    "name": "Dan Argueta",
+    "nickname": "The Determined",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 170,
+    "weight": 61,
+    "reach": 0,
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/e4ba58725825412d",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:17.002Z"
+    }
+  },
+  {
+    "name": "Reza Arianto",
+    "nickname": "The Crazy Lion",
+    "weightClass": "LIGHTWEIGHT",
+    "weight": 70,
+    "wins": 5,
+    "losses": 0,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/90063913321e7670",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:20.694Z"
+    }
+  },
+  {
+    "name": "Hashem Arkhagha",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 188,
+    "weight": 84,
+    "reach": 0,
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/9a7ffa80766caa51",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:23.862Z"
+    }
+  },
+  {
+    "name": "Andrei Arlovski",
+    "nickname": "The Pitbull",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 191,
+    "weight": 109,
+    "reach": 0,
+    "wins": 34,
+    "losses": 24,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/3738e68d2261e60f",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:42:26.331Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Andrei_Arlovski_2018.jpg/330px-Andrei_Arlovski_2018.jpg",
+    "biography": "Andrei Arlovski is a Belarusian-American professional mixed martial artist and actor. A former UFC Heavyweight Champion, he competed in the heavyweight division for the Ultimate Fighting Championship (UFC) and holds the record for most wins (23) in UFC heavyweight history. Arlovski has also competed for Strikeforce, WSOF, Affliction, EliteXC, ONE FC and M-1 Challenge."
+  },
+  {
+    "name": "Garrett Armfield",
+    "weightClass": "BANTAMWEIGHT",
+    "height": 168,
+    "weight": 61,
+    "reach": 0,
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/1effd880e1f1bb30",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:28.057Z"
+    }
+  },
+  {
+    "name": "Joey Armstrong",
+    "weightClass": "WELTERWEIGHT",
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/30ad2050273d016a",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:30.626Z"
+    }
+  },
+  {
+    "name": "Austin Arnett",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 183,
+    "weight": 66,
+    "reach": 0,
+    "wins": 16,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/bf0e700106d00e55",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:42:32.607Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Austin_Arnett_grapples_Spc._Daun_White.jpg/330px-Austin_Arnett_grapples_Spc._Daun_White.jpg",
+    "biography": "Austin Marlow Arnett is a mixed martial artist (MMA) who currently competes in the Featherweight division of CES MMA. A professional mixed martial artist since 2012, Arnett also competed in the UFC."
+  },
+  {
+    "name": "Ricardo Arona",
+    "nickname": "The Brazilian Tiger",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 180,
+    "weight": 93,
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/05fbfe628658c538",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:42:34.613Z"
+    },
+    "biography": "Ricardo Arona is a Brazilian former professional mixed martial artist, submission grappler and 4th degree Brazilian jiu-jitsu (BJJ) black belt practitioner."
+  },
+  {
+    "name": "Eli Aronov",
+    "nickname": "The Israeli Tank",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 178,
+    "weight": 84,
+    "reach": 0,
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/a90c200c3fbb22c4",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:37.079Z"
+    }
+  },
+  {
+    "name": "Chalid Arrab",
+    "nickname": "Die Faust",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 180,
+    "weight": 93,
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/770b9d4813c25902",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:39.735Z"
+    }
+  },
+  {
+    "name": "Akbarh Arreola",
+    "nickname": "El Caballero",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 178,
+    "weight": 70,
+    "reach": 0,
+    "wins": 23,
+    "losses": 11,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c136b2a8852da5bd",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:42:41.881Z"
+    },
+    "biography": "Akbarh Omar Arreola Jiménez is a Mexican mixed martial artist who competed in the Lightweight division of the Ultimate Fighting Championship. He also had competed in the Welterweight division."
+  },
+  {
+    "name": "Matt Arroyo",
+    "nickname": "No Regard",
+    "weightClass": "WELTERWEIGHT",
+    "height": 178,
+    "weight": 77,
+    "reach": 0,
+    "wins": 3,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/de62052b2ede65ba",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:42:44.549Z"
+    },
+    "biography": "Matt Arroyo is an American former professional mixed martial artist. He was featured on the Ultimate Fighting Championship reality television show The Ultimate Fighter: Team Hughes vs. Team Serra, fighting on Team Serra. He fights out of Tampa, Florida with Gracie Tampa, under Royce Gracie black belt Rob Kahn."
+  },
+  {
+    "name": "Antonio Arroyo",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 191,
+    "weight": 84,
+    "reach": 0,
+    "wins": 9,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/61fb8098ccf81c7f",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:47.210Z"
+    }
+  },
+  {
+    "name": "Gilles Arsene",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 175,
+    "weight": 86,
+    "wins": 1,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/2dea80c069847321",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:48.945Z"
+    }
+  },
+  {
+    "name": "Veta Arteaga",
+    "weightClass": "FLYWEIGHT",
+    "height": 170,
+    "weight": 57,
+    "wins": 3,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/91e3388e69060e69",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:51.407Z"
+    }
+  },
+  {
+    "name": "Cesar Arzamendia",
+    "nickname": "Goku",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 180,
+    "weight": 70,
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/49f78022126bf4a4",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:54.173Z"
+    }
+  },
+  {
+    "name": "Kai Asakura",
+    "weightClass": "FLYWEIGHT",
+    "height": 173,
+    "weight": 57,
+    "reach": 0,
+    "wins": 21,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d33da8a3d82bdb62",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:42:56.948Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kai_Asakura_2023.png/330px-Kai_Asakura_2023.png",
+    "biography": "Kai Asakura  is a Japanese mixed martial artist currently competing in the Flyweight division of the Ultimate Fighting Championship (UFC). He previously competed in Rizin Fighting Federation, where he was the Rizin Bantamweight Champion. A professional since 2012, he also competed for Road Fighting Championship, Fighting Network Rings and DEEP. As of July 1, 2025, he is #15 in the UFC flyweight rankings."
+  },
+  {
+    "name": "Teddy Ash",
+    "nickname": "Bear",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 185,
+    "weight": 84,
+    "reach": 0,
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Switch",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/a373085066dbfb54",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:42:59.192Z"
+    }
+  },
+  {
+    "name": "Arman Ashimov",
+    "nickname": "Mustafa Ozturik",
+    "weightClass": "FLYWEIGHT",
+    "height": 168,
+    "weight": 57,
+    "wins": 11,
+    "losses": 3,
+    "draws": 1,
+    "isActive": true,
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d26a0988c9dc9886",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:43:03.086Z"
+    }
+  },
+  {
+    "name": "Yanal Ashmouz",
+    "nickname": "Red Fox",
+    "weightClass": "LIGHTWEIGHT",
+    "height": 175,
+    "weight": 70,
+    "reach": 0,
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/c739c2995a275314",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:43:05.752Z"
+    }
+  },
+  {
+    "name": "Askar Askar",
+    "nickname": "AK-47",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 170,
+    "weight": 66,
+    "reach": 0,
+    "wins": 11,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/2abc414136504554",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:43:08.308Z"
+    }
+  },
+  {
+    "name": "Askar Askarov",
+    "nickname": "Bullet",
+    "weightClass": "FLYWEIGHT",
+    "height": 168,
+    "weight": 57,
+    "reach": 0,
+    "wins": 14,
+    "losses": 1,
+    "draws": 1,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/b1d19449397541dc",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:43:10.622Z"
+    },
+    "biography": "Askar Saypulayevich Askarov is a Russian professional mixed martial artist and freestyle wrestler who competes in the Flyweight division of Absolute Championship Akhmat (ACA). A professional since 2013, Askarov previously competed in the Ultimate Fighting Championship (UFC) and Absolute Championship Berkut (ACB), where he is a former ACB Flyweight Champion. Askarov is also a 2017 Summer Deaflympics 61 kg freestyle wrestling gold medalist."
+  },
+  {
+    "name": "Cyril Asker",
+    "nickname": "Silverback",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 183,
+    "weight": 112,
+    "reach": 0,
+    "wins": 9,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/9be6020024133293",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:43:13.746Z"
+    },
+    "biography": "Cyril Asker is a French mixed martial artist who competed in the Heavyweight division of the Ultimate Fighting Championship."
+  },
+  {
+    "name": "Khusein Askhabov",
+    "nickname": "Nohcho",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 173,
+    "weight": 66,
+    "reach": 0,
+    "wins": 23,
+    "losses": 1,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/5c10da56d712ac9c",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:43:16.430Z"
+    }
+  },
+  {
+    "name": "Scott Askham",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 191,
+    "weight": 84,
+    "reach": 0,
+    "wins": 14,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Southpaw",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/06827d70c53ff0d9",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:43:18.860Z"
+    },
+    "biography": "Scott Askham is an English mixed martial artist currently competing in the Middleweight division of Oktagon MMA. A professional since 2010, he has also competed for the UFC, Konfrontacja Sztuk Walki (KSW), Absolute Championship Berkut, BAMMA, and Cage Warriors."
+  },
+  {
+    "name": "Ben Askren",
+    "nickname": "Funky",
+    "weightClass": "WELTERWEIGHT",
+    "height": 180,
+    "weight": 77,
+    "reach": 0,
+    "wins": 19,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/0b31f87be71ebbb1",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:43:21.455Z"
+    },
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ben_Askren_Nov_2018.jpg/330px-Ben_Askren_Nov_2018.jpg",
+    "biography": "Benjamin Michael Askren is an American former professional mixed martial artist, professional boxer and Olympic wrestler. He formerly competed in the Welterweight divisions of Bellator Fighting Championships and ONE FC, where he was the longest reigning Bellator Welterweight Champion and longest reigning ONE Welterweight World Champion. He also competed in the welterweight division of the UFC."
+  },
+  {
+    "name": "Ibo Aslan",
+    "nickname": "The Last Ottoman",
+    "weightClass": "LIGHT_HEAVYWEIGHT",
+    "height": 191,
+    "weight": 93,
+    "reach": 0,
+    "wins": 14,
+    "losses": 2,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/6e8f1bcdda94ff45",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:43:23.149Z"
+    },
+    "biography": "İbo Aslan is a Turkish-Austrian professional mixed martial artist. He currently competes in the Light Heavyweight division of the Ultimate Fighting Championship (UFC)."
+  },
+  {
+    "name": "Tom Aspinall",
+    "weightClass": "HEAVYWEIGHT",
+    "height": 196,
+    "weight": 116,
+    "reach": 0,
+    "wins": 15,
+    "losses": 3,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/399afbabc02376b5",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:43:26.020Z"
+    },
+    "biography": "Thomas Paul Aspinall is an English professional mixed martial artist. He currently competes in the Heavyweight division of the Ultimate Fighting Championship (UFC), where he is the current UFC Heavyweight Champion. As of 1 July 2025, he is #9 in the UFC men's pound-for-pound rankings. Aspinall is known for his finishing ability, having finished six of his eight UFC wins by the halfway point of the first round, and holds the UFC record for shortest average fight time at two minutes and two seconds."
+  },
+  {
+    "name": "Bruno Assis",
+    "nickname": "Brunao",
+    "weightClass": "MIDDLEWEIGHT",
+    "height": 188,
+    "weight": 84,
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/ff222167cce02919",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": false,
+      "lastUpdated": "2025-07-12T11:43:28.175Z"
+    }
+  },
+  {
+    "name": "Junior Assuncao",
+    "weightClass": "FEATHERWEIGHT",
+    "height": 175,
+    "weight": 66,
+    "reach": 0,
+    "wins": 16,
+    "losses": 6,
+    "draws": 0,
+    "isActive": true,
+    "stance": "Orthodox",
+    "ufcStatsUrl": "http://www.ufcstats.com/fighter-details/d0d7160824278840",
+    "dataQuality": {
+      "ufcStats": true,
+      "wikipedia": true,
+      "lastUpdated": "2025-07-12T11:43:30.540Z"
+    },
+    "biography": "Cleuder Ferreira Assunção Júnior, known as simply Júnior Assunção, is a Brazilian mixed martial artist who formerly competed in the Lightweight division. A professional competitor since 2004, he has competed for the UFC, the Xtreme Fighting Championships, and King of the Cage."
   }
 ]

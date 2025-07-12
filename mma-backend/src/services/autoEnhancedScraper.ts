@@ -47,11 +47,13 @@ class AutoEnhancedScraper {
         try {
             console.log(`🚀 Starting auto-enhanced scraping (limit: ${limit})`);
 
-            // 1. Pull the basic fighter list from UFC Stats
-            const basicFighters = await this.scrapeBasicFightersList();
-            const limitedFighters = basicFighters.slice(0, limit);
+            // 1. Pull ALL fighters from UFC Stats (not just first page)
+            const basicFighters = await this.scrapeAllFightersPages();
 
-            console.log(`📊 Found ${limitedFighters.length} fighters, starting enhancement...`);
+            // Apply limit after getting all fighters
+            const limitedFighters = limit > 0 ? basicFighters.slice(0, limit) : basicFighters;
+
+            console.log(`📊 Found ${basicFighters.length} total fighters, processing ${limitedFighters.length}...`);
 
             const enhancedFighters: EnhancedFighterData[] = [];
 
@@ -83,104 +85,47 @@ class AutoEnhancedScraper {
     }
 
     /**
-     * Automatically enhances a single fighter
+     * Scrape ALL fighters from ALL pages (A-Z)
      */
-    private async autoEnhanceFighter(basicFighter: any): Promise<EnhancedFighterData> {
-        const enhanced: EnhancedFighterData = {
-            ...basicFighter,
-            dataQuality: {
-                ufcStats: true, // Basic data exists
-                wikipedia: false,
-                lastUpdated: new Date()
+    private async scrapeAllFightersPages(): Promise<any[]> {
+        console.log('📚 Scraping all UFC fighters from A-Z...');
+
+        const allFighters: any[] = [];
+        const alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('');
+
+        for (const letter of alphabet) {
+            try {
+                console.log(`📖 Processing letter: ${letter.toUpperCase()}`);
+
+                const letterFighters = await this.scrapeFightersByLetter(letter);
+                allFighters.push(...letterFighters);
+
+                console.log(`  ✅ Found ${letterFighters.length} fighters for ${letter.toUpperCase()}`);
+
+                // Rate limiting between letters
+                await this.delay(1000);
+
+            } catch (error) {
+                console.error(`❌ Error processing letter ${letter}:`, error);
+                continue;
             }
-        };
-
-        try {
-            // Automatic Wikipedia enhancement
-            const wikipediaData = await this.enhanceWithWikipedia(basicFighter.name, basicFighter.ufcStatsUrl);
-
-            if (wikipediaData) {
-                // Add Wikipedia data
-                enhanced.photoUrl = wikipediaData.photoUrl;
-                enhanced.biography = wikipediaData.biography;
-                enhanced.birthPlace = wikipediaData.birthPlace;
-                enhanced.birthDate = wikipediaData.birthDate;
-                enhanced.dataQuality.wikipedia = true;
-
-                console.log(`  ✅ Wikipedia data found`);
-            } else {
-                console.log(`  ⚠️  No Wikipedia data found`);
-            }
-
-        } catch (error) {
-            console.log(`  ❌ Wikipedia enhancement failed: ${error}`);
         }
 
-        return enhanced;
+        console.log(`🎉 Total fighters found: ${allFighters.length}`);
+        return allFighters;
     }
 
     /**
-     * Automatic data extraction from Wikipedia
+     * Scrape fighters for a specific letter
      */
-    private async enhanceWithWikipedia(fighterName: string, ufcStatsUrl?: string): Promise<any> {
-        try {
-            // Wikipedia API - automatic search
-            const searchResponse = await axios.get(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(fighterName)}`, {
-                headers: {
-                    'User-Agent': 'MMA-App/1.0 (educational-use)'
-                }
-            });
+    private async scrapeFightersByLetter(letter: string): Promise<any[]> {
+        const url = `${this.fightersUrl}?char=${letter}&page=all`;
 
-            const data = searchResponse.data;
-
-            // Check if you are interested in MMA
-            if (!this.isMMARelated(data.extract || '')) {
-                return null;
-            }
-
-            // Try multiple sources for the photo
-            let photoUrl = data.thumbnail?.source;
-
-            // If there is no photo on Wikipedia, check out UFC Stats
-            if (!photoUrl && ufcStatsUrl) {
-                try {
-                    photoUrl = await this.getPhotoFromUFCStats(ufcStatsUrl);
-                } catch (error) {
-                    // If UFC Stats can't pull it off, move on
-                }
-            }
-
-            return {
-                photoUrl: photoUrl,
-                biography: data.extract,
-                birthPlace: this.extractBirthPlace(data.extract || ''),
-                birthDate: this.extractBirthDate(data.extract || '')
-            };
-
-        } catch (error) {
-            // If Wikipedia fails, just try UFC Stats Tan photo
-            if (ufcStatsUrl) {
-                try {
-                    const photoUrl = await this.getPhotoFromUFCStats(ufcStatsUrl);
-                    if (photoUrl) {
-                        return { photoUrl };
-                    }
-                } catch (error) {
-                    // Everything fails
-                }
-            }
-            return null;
-        }
-    }
-
-    /**
-     * UFC Stats basic fighter list
-     */
-    private async scrapeBasicFightersList(): Promise<any[]> {
-        const response = await axios.get(this.fightersUrl, {
+        const response = await axios.get(url, {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
-            }
+            },
+            timeout: 10000
         });
 
         const $ = cheerio.load(response.data);
@@ -189,7 +134,7 @@ class AutoEnhancedScraper {
         $('tr.b-statistics__table-row').each((index, element) => {
             try {
                 const $row = $(element);
-                if ($row.find('th').length > 0) return;
+                if ($row.find('th').length > 0) return; // Skip header
 
                 const cells = $row.find('td');
                 if (cells.length < 10) return;
@@ -240,6 +185,98 @@ class AutoEnhancedScraper {
         });
 
         return fighters;
+    }
+
+    /**
+     * Automatically enhances a single fighter
+     */
+    private async autoEnhanceFighter(basicFighter: any): Promise<EnhancedFighterData> {
+        const enhanced: EnhancedFighterData = {
+            ...basicFighter,
+            dataQuality: {
+                ufcStats: true, // Basic data exists
+                wikipedia: false,
+                lastUpdated: new Date()
+            }
+        };
+
+        try {
+            // Automatic Wikipedia enhancement
+            const wikipediaData = await this.enhanceWithWikipedia(basicFighter.name, basicFighter.ufcStatsUrl);
+
+            if (wikipediaData) {
+                // Add Wikipedia data
+                enhanced.photoUrl = wikipediaData.photoUrl;
+                enhanced.biography = wikipediaData.biography;
+                enhanced.birthPlace = wikipediaData.birthPlace;
+                enhanced.birthDate = wikipediaData.birthDate;
+                enhanced.dataQuality.wikipedia = true;
+
+                console.log(`  ✅ Wikipedia data found`);
+            } else {
+                console.log(`  ⚠️  No Wikipedia data found`);
+            }
+
+        } catch (error) {
+            console.log(`  ❌ Wikipedia enhancement failed: ${error}`);
+        }
+
+        return enhanced;
+    }
+
+    /**
+     * Automatic data extraction from Wikipedia
+     */
+    private async enhanceWithWikipedia(fighterName: string, ufcStatsUrl?: string): Promise<any> {
+        try {
+            // Wikipedia API - automatic search
+            const searchResponse = await axios.get(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(fighterName)}`, {
+                headers: {
+                    'User-Agent': 'MMA-App/1.0 (educational-use)'
+                },
+                timeout: 5000
+            });
+
+            const data = searchResponse.data;
+
+            // Check if you are interested in MMA
+            if (!this.isMMARelated(data.extract || '')) {
+                return null;
+            }
+
+            // Try multiple sources for the photo
+            let photoUrl = data.thumbnail?.source;
+
+            // If there is no photo on Wikipedia, check out UFC Stats
+            if (!photoUrl && ufcStatsUrl) {
+                try {
+                    photoUrl = await this.getPhotoFromUFCStats(ufcStatsUrl);
+                } catch (error) {
+                    // If UFC Stats can't pull it off, move on
+                }
+            }
+
+            return {
+                photoUrl: photoUrl,
+                biography: data.extract,
+                birthPlace: this.extractBirthPlace(data.extract || ''),
+                birthDate: this.extractBirthDate(data.extract || '')
+            };
+
+        } catch (error) {
+            // If Wikipedia fails, just try UFC Stats Tan photo
+            if (ufcStatsUrl) {
+                try {
+                    const photoUrl = await this.getPhotoFromUFCStats(ufcStatsUrl);
+                    if (photoUrl) {
+                        return { photoUrl };
+                    }
+                } catch (error) {
+                    // Everything fails
+                }
+            }
+            return null;
+        }
     }
 
     /**
@@ -371,7 +408,7 @@ class AutoEnhancedScraper {
     }
 
     /**
-     * UFC Stats fighter detail sayfasından fotoğraf çek
+     * Take a photo from UFC Stats fighter detail page
      */
     private async getPhotoFromUFCStats(ufcStatsUrl: string): Promise<string | undefined> {
         try {
@@ -384,7 +421,7 @@ class AutoEnhancedScraper {
 
             const $ = cheerio.load(response.data);
 
-            // UFC Stats'taki fighter fotoğrafını ara
+            // Search for fighter photos on UFC Stars
             const photoSelectors = [
                 '.b-fighter-details__person-img img',
                 '.b-content__main-photo img',
