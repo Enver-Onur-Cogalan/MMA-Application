@@ -1,0 +1,1 @@
+export { CreateFighterScreen } from './CreateFighterScreen';

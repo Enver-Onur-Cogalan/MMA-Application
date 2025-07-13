@@ -1,0 +1,1 @@
+export { FighterListScreen } from './FighterListScreen';
