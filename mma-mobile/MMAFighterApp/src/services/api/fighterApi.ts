@@ -2,7 +2,6 @@ import axios from 'axios';
 import { Fighter, FighterFilters } from '../../types/fighter';
 import { environment } from '../../config/environment';
 
-
 const api = axios.create({
     baseURL: environment.API_BASE_URL,
     timeout: environment.API_TIMEOUT,
@@ -11,53 +10,55 @@ const api = axios.create({
     },
 });
 
-// Only add interceptors in development
-if (environment.DEBUG_MODE) {
-    api.interceptors.request.use(
-        (config) => {
-            console.log('🚀 API Request:', config.method?.toUpperCase(), config.url);
-            return config;
-        },
-        (error) => {
-            console.error('❌ API Request Error:', error);
-            return Promise.reject(error);
-        }
-    );
 
-    api.interceptors.response.use(
-        (response) => {
-            console.log('✅ API Response:', response.status, response.config.url);
-            return response;
-        },
-        (error) => {
-            console.error('❌ API Response Error:', error.response?.status, error.config?.url);
-            return Promise.reject(error);
-        }
-    );
-}
+api.interceptors.response.use(
+    (response) => {
+        return response;
+    },
+    (error) => {
+        console.error('❌ API Response Error:', error.response?.status, error.config?.url);
+        console.error('❌ API Error Message:', error.message);
+        console.error('❌ API Error Details:', error.response?.data);
+        return Promise.reject(error);
+    }
+);
 
 export const fighterApi = {
     async getFighters(params?: FighterFilters & { page?: number; limit?: number }) {
-        const response = await api.get('/fighters', { params });
-        return response.data;
+        try {
+            console.log('🎯 getFighters called with params:', params);
+
+            const response = await api.get('/api/fighters', { params });
+
+            if (response.data && response.data.data) {
+                console.log('🎯 Found response.data.data');
+                console.log('🎯 Fighters array length:', response.data.data.length);
+                console.log('🎯 First fighter:', response.data.data[0]);
+            }
+
+            return response.data;
+        } catch (error) {
+            console.error('🎯 getFighters error:', error);
+            throw error;
+        }
     },
 
     async getFighterById(id: number): Promise<Fighter> {
-        const response = await api.get(`/fighters/${id}`);
+        const response = await api.get(`/api/fighters/${id}`);
         return response.data;
     },
 
-    async createFighter(fighter: Omit<Fighter, 'id' | 'crearedAt' | 'updateAt'>): Promise<Fighter> {
-        const response = await api.post('/fighters', fighter);
+    async createFighter(fighter: Omit<Fighter, 'id' | 'createdAt' | 'updatedAt'>): Promise<Fighter> {
+        const response = await api.post('/api/fighters', fighter);
         return response.data;
     },
 
-    async updatedFighter(id: number, updates: Partial<Fighter>): Promise<Fighter> {
-        const response = await api.put(`/fighters/${id}`, updates);
+    async updateFighter(id: number, updates: Partial<Fighter>): Promise<Fighter> {
+        const response = await api.put(`/api/fighters/${id}`, updates);
         return response.data;
     },
 
     async deleteFighter(id: number): Promise<void> {
-        await api.delete(`fighters/${id}`);
+        await api.delete(`/api/fighters/${id}`);
     },
 };

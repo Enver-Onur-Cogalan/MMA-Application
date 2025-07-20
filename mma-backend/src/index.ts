@@ -30,7 +30,7 @@ const limiter = rateLimit({
     max: 100, // request limit per windowMs
     message: 'Çok fazla istek gönderildi, lütfen daha sonra tekrar deneyin.'
 });
-app.use('/api/', limiter);
+// app.use('/api/', limiter);
 
 // Swagger setup with SSL fix
 const specs = swaggerJsdoc(swaggerJsdocOptions);

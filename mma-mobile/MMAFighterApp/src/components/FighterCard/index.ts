@@ -1,0 +1,1 @@
+export { FighterCard } from './FighterCard';

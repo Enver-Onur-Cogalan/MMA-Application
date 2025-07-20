@@ -83,3 +83,8 @@ yarn-error.log
 
 # Keep example file
 !.env.example
+
+# Sensitive config files
+src/config/environment.ts
+config/environment.ts
+
